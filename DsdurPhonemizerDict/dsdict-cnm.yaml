@@ -2574,29 +2574,17 @@ entries:
   - a
 - grapheme: ai&3
   phonemes:
-  - ai
-- grapheme: ai0&3
-  phonemes:
   - a0
   - I0
 - grapheme: an&3
-  phonemes:
-  - an
-- grapheme: an0&3
   phonemes:
   - a0
   - N0
 - grapheme: ang&3
   phonemes:
-  - ang
-- grapheme: ang0&3
-  phonemes:
   - A0
   - ng0
 - grapheme: ao&3
-  phonemes:
-  - ao
-- grapheme: ao0&3
   phonemes:
   - A0
   - O0
