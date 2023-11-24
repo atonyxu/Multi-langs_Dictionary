@@ -1,0 +1,3031 @@
+symbols:
+- symbol: SP
+  type: vowel
+- symbol: AP
+  type: vowel
+- symbol: NG3
+  type: fricative
+- symbol: a3
+  type: vowel
+- symbol: aa3
+  type: vowel
+- symbol: aai
+  type: vowel
+- symbol: aak
+  type: vowel
+- symbol: aam
+  type: vowel
+- symbol: aan
+  type: vowel
+- symbol: aang
+  type: vowel
+- symbol: aap
+  type: vowel
+- symbol: aat
+  type: vowel
+- symbol: aau
+  type: vowel
+- symbol: ai
+  type: vowel
+- symbol: ai3
+  type: vowel
+- symbol: ak
+  type: vowel
+- symbol: am
+  type: vowel
+- symbol: an3
+  type: vowel
+- symbol: ang3
+  type: vowel
+- symbol: ap
+  type: vowel
+- symbol: at
+  type: vowel
+- symbol: au
+  type: vowel
+- symbol: b3
+  type: fricative
+- symbol: c3
+  type: fricative
+- symbol: d3
+  type: fricative
+- symbol: e
+  type: vowel
+- symbol: e3
+  type: vowel
+- symbol: ei3
+  type: vowel
+- symbol: ek
+  type: vowel
+- symbol: em
+  type: vowel
+- symbol: eng3
+  type: vowel
+- symbol: eoi
+  type: vowel
+- symbol: eon
+  type: vowel
+- symbol: eot
+  type: vowel
+- symbol: ep
+  type: vowel
+- symbol: et
+  type: vowel
+- symbol: eu
+  type: vowel
+- symbol: f
+  type: fricative
+- symbol: f3
+  type: fricative
+- symbol: g3
+  type: fricative
+- symbol: gw
+  type: fricative
+- symbol: h
+  type: fricative
+- symbol: h3
+  type: fricative
+- symbol: i
+  type: vowel
+- symbol: i3
+  type: vowel
+- symbol: ik
+  type: vowel
+- symbol: im
+  type: vowel
+- symbol: in
+  type: vowel
+- symbol: in3
+  type: vowel
+- symbol: ing3
+  type: vowel
+- symbol: ip
+  type: vowel
+- symbol: it
+  type: vowel
+- symbol: iu
+  type: vowel
+- symbol: iu3
+  type: vowel
+- symbol: j3
+  type: fricative
+- symbol: k3
+  type: fricative
+- symbol: kw
+  type: fricative
+- symbol: l
+  type: fricative
+- symbol: l3
+  type: fricative
+- symbol: m
+  type: fricative
+- symbol: m3
+  type: fricative
+- symbol: n
+  type: fricative
+- symbol: n3
+  type: fricative
+- symbol: ng3
+  type: vowel
+- symbol: o3
+  type: vowel
+- symbol: oe
+  type: vowel
+- symbol: oek
+  type: vowel
+- symbol: oeng
+  type: vowel
+- symbol: oet
+  type: vowel
+- symbol: oi
+  type: vowel
+- symbol: ok
+  type: vowel
+- symbol: om
+  type: vowel
+- symbol: on
+  type: vowel
+- symbol: on3
+  type: vowel
+- symbol: ong3
+  type: vowel
+- symbol: ot
+  type: vowel
+- symbol: ou
+  type: vowel
+- symbol: ou3
+  type: vowel
+- symbol: p3
+  type: fricative
+- symbol: s
+  type: fricative
+- symbol: s3
+  type: fricative
+- symbol: t3
+  type: fricative
+- symbol: u3
+  type: vowel
+- symbol: ui3
+  type: vowel
+- symbol: uk
+  type: vowel
+- symbol: un3
+  type: vowel
+- symbol: ung
+  type: vowel
+- symbol: ut
+  type: vowel
+- symbol: w3
+  type: fricative
+- symbol: yu3
+  type: vowel
+- symbol: yun3
+  type: vowel
+- symbol: yut
+  type: vowel
+- symbol: z3
+  type: fricative
+entries:
+- grapheme: SP
+  phonemes:
+  - SP
+- grapheme: AP
+  phonemes:
+  - AP
+- grapheme: jau
+  phonemes:
+  - j3
+  - au
+- grapheme: dou
+  phonemes:
+  - d3
+  - ou3
+- grapheme: cat
+  phonemes:
+  - c3
+  - at
+- grapheme: zim
+  phonemes:
+  - z3
+  - im
+- grapheme: kwaa
+  phonemes:
+  - kw
+  - aa3
+- grapheme: ng
+  phonemes:
+  - ng3
+- grapheme: ji
+  phonemes:
+  - j3
+  - i3
+- grapheme: gau
+  phonemes:
+  - g3
+  - au
+- grapheme: jap
+  phonemes:
+  - j3
+  - ap
+- grapheme: ding
+  phonemes:
+  - d3
+  - ing3
+- grapheme: si
+  phonemes:
+  - s3
+  - i3
+- grapheme: tou
+  phonemes:
+  - t3
+  - ou3
+- grapheme: zaau
+  phonemes:
+  - z3
+  - aau
+- grapheme: man
+  phonemes:
+  - m3
+  - an3
+- grapheme: nou
+  phonemes:
+  - n3
+  - ou3
+- grapheme: dung
+  phonemes:
+  - d3
+  - ung
+- grapheme: ziu
+  phonemes:
+  - z3
+  - iu3
+- grapheme: ho
+  phonemes:
+  - h3
+  - o3
+- grapheme: hang
+  phonemes:
+  - h3
+  - ang3
+- grapheme: kit
+  phonemes:
+  - k3
+  - it
+- grapheme: lou
+  phonemes:
+  - l3
+  - ou3
+- grapheme: mai
+  phonemes:
+  - m3
+  - ai3
+- grapheme: dau
+  phonemes:
+  - d3
+  - au
+- grapheme: sau
+  phonemes:
+  - s3
+  - au
+- grapheme: keoi
+  phonemes:
+  - k3
+  - eoi
+- grapheme: kei
+  phonemes:
+  - k3
+  - ei3
+- grapheme: fei
+  phonemes:
+  - f3
+  - ei3
+- grapheme: jyu
+  phonemes:
+  - j3
+  - yu3
+- grapheme: no
+  phonemes:
+  - n3
+  - o3
+- grapheme: fau
+  phonemes:
+  - f3
+  - au
+- grapheme: fu
+  phonemes:
+  - f3
+  - u3
+- grapheme: daan
+  phonemes:
+  - d3
+  - aan
+- grapheme: co
+  phonemes:
+  - c3
+  - o3
+- grapheme: geoi
+  phonemes:
+  - g3
+  - eoi
+- grapheme: coi
+  phonemes:
+  - c3
+  - oi
+- grapheme: zeoi
+  phonemes:
+  - z3
+  - eoi
+- grapheme: jing
+  phonemes:
+  - j3
+  - ing3
+- grapheme: hung
+  phonemes:
+  - h3
+  - ung
+- grapheme: lau
+  phonemes:
+  - l3
+  - au
+- grapheme: lam
+  phonemes:
+  - l3
+  - am
+- grapheme: soeng
+  phonemes:
+  - s3
+  - oeng
+- grapheme: jung
+  phonemes:
+  - j3
+  - ung
+- grapheme: seon
+  phonemes:
+  - s3
+  - eon
+- grapheme: can
+  phonemes:
+  - c3
+  - an3
+- grapheme: daai
+  phonemes:
+  - d3
+  - aai
+- grapheme: ngat
+  phonemes:
+  - NG3
+  - at
+- grapheme: paan
+  phonemes:
+  - p3
+  - aan
+- grapheme: ci
+  phonemes:
+  - c3
+  - i3
+- grapheme: maa
+  phonemes:
+  - m3
+  - aa3
+- grapheme: him
+  phonemes:
+  - h3
+  - im
+- grapheme: hei
+  phonemes:
+  - h3
+  - ei3
+- grapheme: jam
+  phonemes:
+  - j3
+  - am
+- grapheme: noi
+  phonemes:
+  - n3
+  - oi
+- grapheme: cing
+  phonemes:
+  - c3
+  - ing3
+- grapheme: fung
+  phonemes:
+  - f
+  - ung
+- grapheme: wun
+  phonemes:
+  - w3
+  - un3
+- grapheme: taai
+  phonemes:
+  - t3
+  - aai
+- grapheme: zeot
+  phonemes:
+  - z3
+  - eot
+- grapheme: fong
+  phonemes:
+  - f
+  - ong3
+- grapheme: aau
+  phonemes:
+  - au
+- grapheme: mou
+  phonemes:
+  - m3
+  - ou3
+- grapheme: zok
+  phonemes:
+  - z3
+  - ok
+- grapheme: hing
+  phonemes:
+  - h3
+  - ing3
+- grapheme: zau
+  phonemes:
+  - z3
+  - au
+- grapheme: cau
+  phonemes:
+  - c3
+  - au
+- grapheme: suk
+  phonemes:
+  - s3
+  - uk
+- grapheme: jik
+  phonemes:
+  - j3
+  - ik
+- grapheme: hong
+  phonemes:
+  - h3
+  - ong3
+- grapheme: loi
+  phonemes:
+  - l3
+  - oi
+- grapheme: cyu
+  phonemes:
+  - c3
+  - yu3
+- grapheme: zat
+  phonemes:
+  - z3
+  - at
+- grapheme: cim
+  phonemes:
+  - c3
+  - im
+- grapheme: zeon
+  phonemes:
+  - z3
+  - eon
+- grapheme: seoi
+  phonemes:
+  - s3
+  - eoi
+- grapheme: zung
+  phonemes:
+  - z3
+  - ung
+- grapheme: san
+  phonemes:
+  - s3
+  - an3
+- grapheme: gaai
+  phonemes:
+  - g3
+  - ai
+- grapheme: dip
+  phonemes:
+  - d3
+  - ip
+- grapheme: naa
+  phonemes:
+  - n3
+  - aa3
+- grapheme: jai
+  phonemes:
+  - j3
+  - ai3
+- grapheme: lung
+  phonemes:
+  - l3
+  - ung
+- grapheme: bang
+  phonemes:
+  - b3
+  - ang3
+- grapheme: gin
+  phonemes:
+  - g3
+  - in3
+- grapheme: zik
+  phonemes:
+  - z3
+  - ik
+- grapheme: koek
+  phonemes:
+  - k3
+  - oek
+- grapheme: laam
+  phonemes:
+  - l3
+  - aam
+- grapheme: maau
+  phonemes:
+  - m3
+  - au
+- grapheme: lai
+  phonemes:
+  - l3
+  - ai3
+- grapheme: gwai
+  phonemes:
+  - gw
+  - ai3
+- grapheme: lo
+  phonemes:
+  - l3
+  - o3
+- grapheme: caai
+  phonemes:
+  - c3
+  - aai
+- grapheme: lim
+  phonemes:
+  - l3
+  - im
+- grapheme: nim
+  phonemes:
+  - n3
+  - im
+- grapheme: gu
+  phonemes:
+  - g3
+  - u3
+- grapheme: bei
+  phonemes:
+  - b3
+  - ei3
+- grapheme: wan
+  phonemes:
+  - w3
+  - an3
+- grapheme: fui
+  phonemes:
+  - f3
+  - ui3
+- grapheme: jiu
+  phonemes:
+  - j3
+  - iu3
+- grapheme: naam
+  phonemes:
+  - n3
+  - am
+- grapheme: cam
+  phonemes:
+  - c3
+  - am
+- grapheme: wui
+  phonemes:
+  - w3
+  - ui3
+- grapheme: maat
+  phonemes:
+  - m3
+  - aat
+- grapheme: loek
+  phonemes:
+  - l3
+  - oek
+- grapheme: tong
+  phonemes:
+  - t3
+  - ong3
+- grapheme: zaak
+  phonemes:
+  - z3
+  - aak
+- grapheme: zoek
+  phonemes:
+  - z3
+  - oek
+- grapheme: jin
+  phonemes:
+  - j3
+  - in3
+- grapheme: kai
+  phonemes:
+  - k3
+  - ai3
+- grapheme: kap
+  phonemes:
+  - k3
+  - ap
+- grapheme: haam
+  phonemes:
+  - h3
+  - aam
+- grapheme: cong
+  phonemes:
+  - c3
+  - ong3
+- grapheme: saap
+  phonemes:
+  - s3
+  - aap
+- grapheme: king
+  phonemes:
+  - k3
+  - ing3
+- grapheme: leoi
+  phonemes:
+  - l3
+  - eoi
+- grapheme: hon
+  phonemes:
+  - h3
+  - on3
+- grapheme: buk
+  phonemes:
+  - b3
+  - uk
+- grapheme: taat
+  phonemes:
+  - t3
+  - aat
+- grapheme: daat
+  phonemes:
+  - d3
+  - aat
+- grapheme: ong
+  phonemes:
+  - ong3
+- grapheme: ngau
+  phonemes:
+  - NG3
+  - au
+- grapheme: toi
+  phonemes:
+  - t3
+  - oi
+- grapheme: syu
+  phonemes:
+  - s3
+  - yu3
+- grapheme: min
+  phonemes:
+  - m3
+  - in3
+- grapheme: jan
+  phonemes:
+  - j3
+  - an3
+- grapheme: tiu
+  phonemes:
+  - t3
+  - iu3
+- grapheme: mit
+  phonemes:
+  - m3
+  - it
+- grapheme: wai
+  phonemes:
+  - w3
+  - ai3
+- grapheme: niu
+  phonemes:
+  - n3
+  - iu3
+- grapheme: haai
+  phonemes:
+  - h3
+  - aai
+- grapheme: joek
+  phonemes:
+  - j3
+  - oek
+- grapheme: cip
+  phonemes:
+  - c3
+  - ip
+- grapheme: sin
+  phonemes:
+  - s3
+  - in3
+- grapheme: sek
+  phonemes:
+  - s3
+  - ek
+- grapheme: gei
+  phonemes:
+  - g3
+  - ei3
+- grapheme: wong
+  phonemes:
+  - w3
+  - ong3
+- grapheme: kwan
+  phonemes:
+  - kw
+  - an3
+- grapheme: jip
+  phonemes:
+  - j3
+  - ip
+- grapheme: cyun
+  phonemes:
+  - c3
+  - yun3
+- grapheme: loeng
+  phonemes:
+  - l3
+  - oeng
+- grapheme: gwat
+  phonemes:
+  - gw
+  - at
+- grapheme: gung
+  phonemes:
+  - g3
+  - ung
+- grapheme: din
+  phonemes:
+  - d3
+  - in3
+- grapheme: mong
+  phonemes:
+  - m3
+  - ong3
+- grapheme: mang
+  phonemes:
+  - m3
+  - ang3
+- grapheme: mun
+  phonemes:
+  - m3
+  - un3
+- grapheme: hyun
+  phonemes:
+  - h3
+  - yun3
+- grapheme: lei
+  phonemes:
+  - l3
+  - ei3
+- grapheme: kau
+  phonemes:
+  - k3
+  - au
+- grapheme: zam
+  phonemes:
+  - z3
+  - am
+- grapheme: ting
+  phonemes:
+  - t3
+  - ing3
+- grapheme: leon
+  phonemes:
+  - l3
+  - eon
+- grapheme: juk
+  phonemes:
+  - j3
+  - uk
+- grapheme: bing
+  phonemes:
+  - b3
+  - ing3
+- grapheme: wut
+  phonemes:
+  - w3
+  - ut
+- grapheme: cang
+  phonemes:
+  - c3
+  - ang3
+- grapheme: cung
+  phonemes:
+  - c3
+  - ung
+- grapheme: gwing
+  phonemes:
+  - gw
+  - ing3
+- grapheme: luk
+  phonemes:
+  - l3
+  - uk
+- grapheme: ze
+  phonemes:
+  - z3
+  - e3
+- grapheme: bat
+  phonemes:
+  - b3
+  - at
+- grapheme: git
+  phonemes:
+  - g3
+  - it
+- grapheme: pai
+  phonemes:
+  - p3
+  - ai3
+- grapheme: dim
+  phonemes:
+  - d3
+  - im
+- grapheme: lok
+  phonemes:
+  - l3
+  - ok
+- grapheme: hap
+  phonemes:
+  - h3
+  - ap
+- grapheme: gat
+  phonemes:
+  - g3
+  - at
+- grapheme: maak
+  phonemes:
+  - m3
+  - aak
+- grapheme: baak
+  phonemes:
+  - b3
+  - aak
+- grapheme: gam
+  phonemes:
+  - g3
+  - am
+- grapheme: long
+  phonemes:
+  - l3
+  - ong3
+- grapheme: hot
+  phonemes:
+  - h
+  - ot
+- grapheme: diu
+  phonemes:
+  - d3
+  - iu3
+- grapheme: waak
+  phonemes:
+  - w3
+  - aak
+- grapheme: tau
+  phonemes:
+  - t3
+  - au
+- grapheme: pin
+  phonemes:
+  - p3
+  - in3
+- grapheme: dai
+  phonemes:
+  - d3
+  - ai3
+- grapheme: jyun
+  phonemes:
+  - j3
+  - yun3
+- grapheme: ngok
+  phonemes:
+  - NG3
+  - ok
+- grapheme: jeoi
+  phonemes:
+  - j3
+  - eoi
+- grapheme: kin
+  phonemes:
+  - k3
+  - in3
+- grapheme: gong
+  phonemes:
+  - g3
+  - ong3
+- grapheme: sung
+  phonemes:
+  - s3
+  - ung
+- grapheme: sai
+  phonemes:
+  - s
+  - ai3
+- grapheme: dang
+  phonemes:
+  - d3
+  - ang3
+- grapheme: zyut
+  phonemes:
+  - z3
+  - yut
+- grapheme: siu
+  phonemes:
+  - s3
+  - iu3
+- grapheme: caam
+  phonemes:
+  - c3
+  - am
+- grapheme: put
+  phonemes:
+  - p3
+  - ut
+- grapheme: zuk
+  phonemes:
+  - z3
+  - uk
+- grapheme: zin
+  phonemes:
+  - z3
+  - in3
+- grapheme: gaam
+  phonemes:
+  - g3
+  - am
+- grapheme: caat
+  phonemes:
+  - c3
+  - aat
+- grapheme: sit
+  phonemes:
+  - s3
+  - it
+- grapheme: lik
+  phonemes:
+  - l3
+  - ik
+- grapheme: kwai
+  phonemes:
+  - kw
+  - ai3
+- grapheme: gaa
+  phonemes:
+  - g3
+  - aa3
+- grapheme: fai
+  phonemes:
+  - f3
+  - ai3
+- grapheme: ceot
+  phonemes:
+  - c3
+  - eot
+- grapheme: paang
+  phonemes:
+  - p3
+  - aang
+- grapheme: hau
+  phonemes:
+  - h3
+  - au
+- grapheme: but
+  phonemes:
+  - b3
+  - ut
+- grapheme: gwaai
+  phonemes:
+  - gw
+  - aai
+- grapheme: hat
+  phonemes:
+  - h3
+  - at
+- grapheme: bit
+  phonemes:
+  - b3
+  - it
+- grapheme: dyut
+  phonemes:
+  - d3
+  - yut
+- grapheme: baa
+  phonemes:
+  - b3
+  - aa3
+- grapheme: joeng
+  phonemes:
+  - j3
+  - oeng
+- grapheme: bui
+  phonemes:
+  - b3
+  - ui3
+- grapheme: ap
+  phonemes:
+  - ap
+- grapheme: coek
+  phonemes:
+  - c3
+  - oek
+- grapheme: syun
+  phonemes:
+  - s3
+  - yun3
+- grapheme: tai
+  phonemes:
+  - t3
+  - ai3
+- grapheme: lak
+  phonemes:
+  - l3
+  - ak
+- grapheme: pei
+  phonemes:
+  - p3
+  - ei3
+- grapheme: zit
+  phonemes:
+  - z3
+  - it
+- grapheme: zi
+  phonemes:
+  - z3
+  - i3
+- grapheme: gaap
+  phonemes:
+  - g3
+  - aap
+- grapheme: wu
+  phonemes:
+  - w3
+  - u3
+- grapheme: laap
+  phonemes:
+  - l3
+  - aap
+- grapheme: bou
+  phonemes:
+  - b3
+  - ou3
+- grapheme: kam
+  phonemes:
+  - k3
+  - am
+- grapheme: ngoi
+  phonemes:
+  - NG3
+  - oi
+- grapheme: deoi
+  phonemes:
+  - d3
+  - eoi
+- grapheme: se
+  phonemes:
+  - s3
+  - e
+- grapheme: ceoi
+  phonemes:
+  - c3
+  - eoi
+- grapheme: ngai
+  phonemes:
+  - NG3
+  - ai3
+- grapheme: cin
+  phonemes:
+  - c3
+  - in3
+- grapheme: teng
+  phonemes:
+  - t3
+  - eng3
+- grapheme: waan
+  phonemes:
+  - w3
+  - an3
+- grapheme: sou
+  phonemes:
+  - s3
+  - ou3
+- grapheme: sam
+  phonemes:
+  - s3
+  - am
+- grapheme: caa
+  phonemes:
+  - c3
+  - aa3
+- grapheme: kok
+  phonemes:
+  - k3
+  - ok
+- grapheme: waa
+  phonemes:
+  - w3
+  - aa3
+- grapheme: faan
+  phonemes:
+  - f3
+  - an3
+- grapheme: pong
+  phonemes:
+  - p3
+  - ong3
+- grapheme: dam
+  phonemes:
+  - d3
+  - am
+- grapheme: jaau
+  phonemes:
+  - j3
+  - au
+- grapheme: neot
+  phonemes:
+  - n3
+  - eot
+- grapheme: hok
+  phonemes:
+  - h3
+  - ok
+- grapheme: muk
+  phonemes:
+  - m3
+  - uk
+- grapheme: gwok
+  phonemes:
+  - gw
+  - ok
+- grapheme: wau
+  phonemes:
+  - w3
+  - au
+- grapheme: lap
+  phonemes:
+  - l3
+  - ap
+- grapheme: fat
+  phonemes:
+  - f3
+  - at
+- grapheme: hiu
+  phonemes:
+  - h3
+  - iu3
+- grapheme: wo
+  phonemes:
+  - w3
+  - o3
+- grapheme: leot
+  phonemes:
+  - l3
+  - eot
+- grapheme: seot
+  phonemes:
+  - s3
+  - eot
+- grapheme: kuk
+  phonemes:
+  - k3
+  - uk
+- grapheme: maan
+  phonemes:
+  - m3
+  - aan
+- grapheme: haak
+  phonemes:
+  - h3
+  - aak
+- grapheme: hak
+  phonemes:
+  - h3
+  - ak
+- grapheme: nit
+  phonemes:
+  - n3
+  - it
+- grapheme: tan
+  phonemes:
+  - t3
+  - an3
+- grapheme: ngot
+  phonemes:
+  - NG3
+  - ot
+- grapheme: mei
+  phonemes:
+  - m3
+  - ei3
+- grapheme: e
+  phonemes:
+  - e3
+- grapheme: je
+  phonemes:
+  - j3
+  - e3
+- grapheme: nge
+  phonemes:
+  - NG3
+  - e3
+- grapheme: fan
+  phonemes:
+  - f3
+  - an3
+- grapheme: ling
+  phonemes:
+  - l3
+  - ing3
+- grapheme: tim
+  phonemes:
+  - t3
+  - im
+- grapheme: tung
+  phonemes:
+  - t3
+  - ung
+- grapheme: got
+  phonemes:
+  - g3
+  - ot
+- grapheme: laa
+  phonemes:
+  - l3
+  - a3
+- grapheme: pan
+  phonemes:
+  - p3
+  - an3
+- grapheme: ceon
+  phonemes:
+  - c3
+  - eon
+- grapheme: nau
+  phonemes:
+  - n3
+  - au
+- grapheme: mau
+  phonemes:
+  - m3
+  - au
+- grapheme: saang
+  phonemes:
+  - s3
+  - aang
+- grapheme: ku
+  phonemes:
+  - k3
+  - u3
+- grapheme: gaak
+  phonemes:
+  - g3
+  - aak
+- grapheme: haa
+  phonemes:
+  - h3
+  - aa3
+- grapheme: zaai
+  phonemes:
+  - z3
+  - ai3
+- grapheme: ga
+  phonemes:
+  - g3
+  - a3
+- grapheme: za
+  phonemes:
+  - z3
+  - a3
+- grapheme: zaa
+  phonemes:
+  - z3
+  - aa3
+- grapheme: me
+  phonemes:
+  - m3
+  - e3
+- grapheme: la
+  phonemes:
+  - l3
+  - a3
+- grapheme: bo
+  phonemes:
+  - b3
+  - o3
+- grapheme: waai
+  phonemes:
+  - w3
+  - aai
+- grapheme: haap
+  phonemes:
+  - h3
+  - aap
+- grapheme: baai
+  phonemes:
+  - b3
+  - ai3
+- grapheme: oi
+  phonemes:
+  - oi
+- grapheme: hin
+  phonemes:
+  - h3
+  - in3
+- grapheme: daam
+  phonemes:
+  - d3
+  - am
+- grapheme: bok
+  phonemes:
+  - b3
+  - ok
+- grapheme: gou
+  phonemes:
+  - g3
+  - ou3
+- grapheme: po
+  phonemes:
+  - p3
+  - o3
+- grapheme: zyu
+  phonemes:
+  - z3
+  - yu3
+- grapheme: kwok
+  phonemes:
+  - kw
+  - ok
+- grapheme: sap
+  phonemes:
+  - s3
+  - ap
+- grapheme: cit
+  phonemes:
+  - c3
+  - it
+- grapheme: sik
+  phonemes:
+  - s3
+  - ik
+- grapheme: gang
+  phonemes:
+  - g3
+  - ang3
+- grapheme: saai
+  phonemes:
+  - s3
+  - aai
+- grapheme: zaap
+  phonemes:
+  - z3
+  - aap
+- grapheme: zep
+  phonemes:
+  - z3
+  - ep
+- grapheme: dap
+  phonemes:
+  - d3
+  - ap
+- grapheme: ngaan
+  phonemes:
+  - NG3
+  - aan
+- grapheme: go
+  phonemes:
+  - g3
+  - o3
+- grapheme: hoeng
+  phonemes:
+  - h3
+  - oeng
+- grapheme: hoe
+  phonemes:
+  - h3
+  - oe
+- grapheme: doe
+  phonemes:
+  - d3
+  - oe
+- grapheme: lang
+  phonemes:
+  - l3
+  - ang3
+- grapheme: wing
+  phonemes:
+  - w3
+  - ing3
+- grapheme: paau
+  phonemes:
+  - p3
+  - aau
+- grapheme: laan
+  phonemes:
+  - l3
+  - aan
+- grapheme: lyun
+  phonemes:
+  - l3
+  - yun3
+- grapheme: ngaam
+  phonemes:
+  - NG3
+  - aam
+- grapheme: ham
+  phonemes:
+  - h3
+  - am
+- grapheme: naap
+  phonemes:
+  - n3
+  - aap
+- grapheme: coeng
+  phonemes:
+  - c3
+  - oeng
+- grapheme: bik
+  phonemes:
+  - b3
+  - ik
+- grapheme: wang
+  phonemes:
+  - w3
+  - ang3
+- grapheme: ngo
+  phonemes:
+  - NG3
+  - o3
+- grapheme: kan
+  phonemes:
+  - k3
+  - an3
+- grapheme: nip
+  phonemes:
+  - n3
+  - ip
+- grapheme: hou
+  phonemes:
+  - h3
+  - ou3
+- grapheme: ging
+  phonemes:
+  - g3
+  - ing3
+- grapheme: taan
+  phonemes:
+  - t3
+  - aan
+- grapheme: guk
+  phonemes:
+  - g3
+  - uk
+- grapheme: zo
+  phonemes:
+  - z3
+  - o3
+- grapheme: ngaai
+  phonemes:
+  - NG3
+  - aai
+- grapheme: zong
+  phonemes:
+  - z3
+  - ong3
+- grapheme: haau
+  phonemes:
+  - h3
+  - aau
+- grapheme: zoi
+  phonemes:
+  - z3
+  - oi
+- grapheme: mui
+  phonemes:
+  - m3
+  - ui3
+- grapheme: bai
+  phonemes:
+  - b3
+  - ai3
+- grapheme: cuk
+  phonemes:
+  - c3
+  - uk
+- grapheme: tin
+  phonemes:
+  - t3
+  - in3
+- grapheme: fuk
+  phonemes:
+  - f3
+  - uk
+- grapheme: do
+  phonemes:
+  - d3
+  - o3
+- grapheme: faai
+  phonemes:
+  - f3
+  - aai
+- grapheme: sing
+  phonemes:
+  - s3
+  - ing3
+- grapheme: hip
+  phonemes:
+  - h3
+  - ip
+- grapheme: ai
+  phonemes:
+  - ai3
+- grapheme: zoeng
+  phonemes:
+  - z3
+  - oeng
+- grapheme: gwan
+  phonemes:
+  - gw
+  - an3
+- grapheme: ce
+  phonemes:
+  - c3
+  - e3
+- grapheme: liu
+  phonemes:
+  - l3
+  - iu3
+- grapheme: cap
+  phonemes:
+  - c3
+  - ap
+- grapheme: ngan
+  phonemes:
+  - NG3
+  - an3
+- grapheme: kyut
+  phonemes:
+  - k3
+  - yut
+- grapheme: daap
+  phonemes:
+  - d3
+  - aap
+- grapheme: pok
+  phonemes:
+  - p3
+  - ok
+- grapheme: mung
+  phonemes:
+  - m3
+  - ung
+- grapheme: kiu
+  phonemes:
+  - k3
+  - iu3
+- grapheme: nong
+  phonemes:
+  - n3
+  - ong3
+- grapheme: hoi
+  phonemes:
+  - h3
+  - oi
+- grapheme: fo
+  phonemes:
+  - f3
+  - o3
+- grapheme: heoi
+  phonemes:
+  - h3
+  - eoi
+- grapheme: sim
+  phonemes:
+  - s3
+  - im
+- grapheme: bun
+  phonemes:
+  - b3
+  - un3
+- grapheme: kwang
+  phonemes:
+  - kw
+  - ang3
+- grapheme: hai
+  phonemes:
+  - h3
+  - ai3
+- grapheme: wik
+  phonemes:
+  - w3
+  - ik
+- grapheme: gaau
+  phonemes:
+  - g3
+  - au
+- grapheme: jim
+  phonemes:
+  - j3
+  - im
+- grapheme: pui
+  phonemes:
+  - p3
+  - ui3
+- grapheme: a
+  phonemes:
+  - a3
+- grapheme: pou
+  phonemes:
+  - p3
+  - ou3
+- grapheme: naai
+  phonemes:
+  - n3
+  - ai3
+- grapheme: gai
+  phonemes:
+  - g3
+  - ai3
+- grapheme: baau
+  phonemes:
+  - b3
+  - aau
+- grapheme: nei
+  phonemes:
+  - n3
+  - ei3
+- grapheme: caan
+  phonemes:
+  - c3
+  - aan
+- grapheme: so
+  phonemes:
+  - s3
+  - o3
+- grapheme: haan
+  phonemes:
+  - h3
+  - aan
+- grapheme: taap
+  phonemes:
+  - t3
+  - aap
+- grapheme: koeng
+  phonemes:
+  - k3
+  - oeng
+- grapheme: faat
+  phonemes:
+  - f3
+  - aat
+- grapheme: caap
+  phonemes:
+  - c3
+  - aap
+- grapheme: saan
+  phonemes:
+  - s3
+  - aan
+- grapheme: huk
+  phonemes:
+  - h3
+  - uk
+- grapheme: lin
+  phonemes:
+  - l3
+  - in3
+- grapheme: cou
+  phonemes:
+  - c3
+  - ou
+- grapheme: ngou
+  phonemes:
+  - NG3
+  - ou3
+- grapheme: ngam
+  phonemes:
+  - NG3
+  - am
+- grapheme: maai
+  phonemes:
+  - m3
+  - aai
+- grapheme: jyut
+  phonemes:
+  - j3
+  - yut
+- grapheme: laai
+  phonemes:
+  - l3
+  - aai
+- grapheme: ou
+  phonemes:
+  - ou3
+- grapheme: dong
+  phonemes:
+  - d3
+  - ong3
+- grapheme: jit
+  phonemes:
+  - j3
+  - it
+- grapheme: zaan
+  phonemes:
+  - z3
+  - an3
+- grapheme: zai
+  phonemes:
+  - z3
+  - ai3
+- grapheme: ning
+  phonemes:
+  - n3
+  - ing3
+- grapheme: ming
+  phonemes:
+  - m3
+  - ing3
+- grapheme: dak
+  phonemes:
+  - d3
+  - ak
+- grapheme: bin
+  phonemes:
+  - b3
+  - in3
+- grapheme: gan
+  phonemes:
+  - g3
+  - an3
+- grapheme: teoi
+  phonemes:
+  - t3
+  - eoi
+- grapheme: kek
+  phonemes:
+  - k3
+  - ek
+- grapheme: am
+  phonemes:
+  - am
+- grapheme: zaat
+  phonemes:
+  - z3
+  - aat
+- grapheme: nin
+  phonemes:
+  - n3
+  - in
+- grapheme: bet
+  phonemes:
+  - b3
+  - et
+- grapheme: geng
+  phonemes:
+  - g3
+  - eng3
+- grapheme: duk
+  phonemes:
+  - d3
+  - uk
+- grapheme: dok
+  phonemes:
+  - d3
+  - ok
+- grapheme: cik
+  phonemes:
+  - c3
+  - ik
+- grapheme: hyut
+  phonemes:
+  - h
+  - yut
+- grapheme: ngon
+  phonemes:
+  - NG3
+  - on3
+- grapheme: ngong
+  phonemes:
+  - NG3
+  - ong3
+- grapheme: to
+  phonemes:
+  - t3
+  - o3
+- grapheme: giu
+  phonemes:
+  - g3
+  - iu
+- grapheme: ban
+  phonemes:
+  - b3
+  - an3
+- grapheme: zaam
+  phonemes:
+  - z3
+  - aam
+- grapheme: dyun
+  phonemes:
+  - d3
+  - yun3
+- grapheme: dat
+  phonemes:
+  - d3
+  - at
+- grapheme: ngaak
+  phonemes:
+  - NG3
+  - aak
+- grapheme: biu
+  phonemes:
+  - b3
+  - iu3
+- grapheme: dik
+  phonemes:
+  - d3
+  - ik
+- grapheme: jeon
+  phonemes:
+  - j3
+  - eon
+- grapheme: zing
+  phonemes:
+  - z3
+  - ing3
+- grapheme: wat
+  phonemes:
+  - w3
+  - at
+- grapheme: pung
+  phonemes:
+  - p3
+  - ung
+- grapheme: gap
+  phonemes:
+  - g3
+  - ap
+- grapheme: saa
+  phonemes:
+  - s3
+  - aa3
+- grapheme: gwaa
+  phonemes:
+  - gw
+  - aa3
+- grapheme: zip
+  phonemes:
+  - z3
+  - ip
+- grapheme: mok
+  phonemes:
+  - m3
+  - ok
+- grapheme: saam
+  phonemes:
+  - s3
+  - aam
+- grapheme: ciu
+  phonemes:
+  - c3
+  - iu3
+- grapheme: zou
+  phonemes:
+  - z3
+  - ou3
+- grapheme: pun
+  phonemes:
+  - p3
+  - un3
+- grapheme: kong
+  phonemes:
+  - k3
+  - ong3
+- grapheme: gyun
+  phonemes:
+  - g3
+  - yun3
+- grapheme: deon
+  phonemes:
+  - d3
+  - eon
+- grapheme: zan
+  phonemes:
+  - z3
+  - an3
+- grapheme: sat
+  phonemes:
+  - s3
+  - at
+- grapheme: kaa
+  phonemes:
+  - k3
+  - aa3
+- grapheme: tip
+  phonemes:
+  - t3
+  - ip
+- grapheme: lit
+  phonemes:
+  - l3
+  - it
+- grapheme: gwong
+  phonemes:
+  - gw
+  - ong3
+- grapheme: hik
+  phonemes:
+  - h3
+  - ik
+- grapheme: gip
+  phonemes:
+  - g3
+  - ip
+- grapheme: tik
+  phonemes:
+  - t3
+  - ik
+- grapheme: cai
+  phonemes:
+  - c3
+  - ai3
+- grapheme: pang
+  phonemes:
+  - p3
+  - ang3
+- grapheme: gik
+  phonemes:
+  - g3
+  - ik
+- grapheme: sak
+  phonemes:
+  - s3
+  - ak
+- grapheme: caak
+  phonemes:
+  - c3
+  - aak
+- grapheme: nik
+  phonemes:
+  - n3
+  - ik
+- grapheme: dit
+  phonemes:
+  - d3
+  - it
+- grapheme: wok
+  phonemes:
+  - w3
+  - ok
+- grapheme: sip
+  phonemes:
+  - s3
+  - ip
+- grapheme: goi
+  phonemes:
+  - g3
+  - oi
+- grapheme: ngaa
+  phonemes:
+  - NG3
+  - aa3
+- grapheme: we
+  phonemes:
+  - w3
+  - e3
+- grapheme: ak
+  phonemes:
+  - ak
+- grapheme: pit
+  phonemes:
+  - p3
+  - it
+- grapheme: ke
+  phonemes:
+  - k3
+  - e3
+- grapheme: kwaai
+  phonemes:
+  - kw
+  - aai
+- grapheme: ung
+  phonemes:
+  - ung
+- grapheme: kung
+  phonemes:
+  - k3
+  - ung
+- grapheme: pau
+  phonemes:
+  - p3
+  - au
+- grapheme: neoi
+  phonemes:
+  - n3
+  - eoi
+- grapheme: bong
+  phonemes:
+  - b3
+  - ong3
+- grapheme: bau
+  phonemes:
+  - b3
+  - au
+- grapheme: mik
+  phonemes:
+  - m3
+  - ik
+- grapheme: jaap
+  phonemes:
+  - j3
+  - aap
+- grapheme: sok
+  phonemes:
+  - s3
+  - ok
+- grapheme: dan
+  phonemes:
+  - d3
+  - an3
+- grapheme: tyun
+  phonemes:
+  - t3
+  - yun3
+- grapheme: kyun
+  phonemes:
+  - k3
+  - yun3
+- grapheme: ngaat
+  phonemes:
+  - NG3
+  - aat
+- grapheme: kak
+  phonemes:
+  - k3
+  - ak
+- grapheme: koi
+  phonemes:
+  - k3
+  - oi
+- grapheme: saau
+  phonemes:
+  - s3
+  - au
+- grapheme: mat
+  phonemes:
+  - m3
+  - at
+- grapheme: on
+  phonemes:
+  - on3
+- grapheme: naan
+  phonemes:
+  - n3
+  - aan
+- grapheme: nyun
+  phonemes:
+  - n3
+  - yun3
+- grapheme: gok
+  phonemes:
+  - g3
+  - ok
+- grapheme: piu
+  phonemes:
+  - p3
+  - iu3
+- grapheme: saat
+  phonemes:
+  - s3
+  - aat
+- grapheme: lip
+  phonemes:
+  - l3
+  - ip
+- grapheme: zaang
+  phonemes:
+  - z3
+  - aang
+- grapheme: tang
+  phonemes:
+  - t3
+  - ang3
+- grapheme: doi
+  phonemes:
+  - d3
+  - oi
+- grapheme: paai
+  phonemes:
+  - p3
+  - aai
+- grapheme: lyut
+  phonemes:
+  - l3
+  - yut
+- grapheme: doek
+  phonemes:
+  - d3
+  - oek
+- grapheme: baat
+  phonemes:
+  - b3
+  - aat
+- grapheme: gun
+  phonemes:
+  - g3
+  - un3
+- grapheme: han
+  phonemes:
+  - h3
+  - an3
+- grapheme: fun
+  phonemes:
+  - f3
+  - un3
+- grapheme: sei3
+  phonemes:
+  - s3
+  - ei3
+- grapheme: ngap
+  phonemes:
+  - NG3
+  - ap
+- grapheme: waat
+  phonemes:
+  - w3
+  - aat
+- grapheme: kui
+  phonemes:
+  - k3
+  - ui3
+- grapheme: pik
+  phonemes:
+  - p3
+  - ik
+- grapheme: gwo
+  phonemes:
+  - gw
+  - o3
+- grapheme: zak
+  phonemes:
+  - z3
+  - ak
+- grapheme: aap
+  phonemes:
+  - aap
+- grapheme: jat
+  phonemes:
+  - j3
+  - at
+- grapheme: taam
+  phonemes:
+  - t3
+  - am
+- grapheme: faa
+  phonemes:
+  - f3
+  - aa3
+- grapheme: goeng
+  phonemes:
+  - g3
+  - oeng
+- grapheme: nang
+  phonemes:
+  - n3
+  - ang3
+- grapheme: gaan
+  phonemes:
+  - g3
+  - aan
+- grapheme: nap
+  phonemes:
+  - n3
+  - ap
+- grapheme: gwik
+  phonemes:
+  - gw
+  - ik
+- grapheme: waang
+  phonemes:
+  - w3
+  - aang
+- grapheme: caau
+  phonemes:
+  - c3
+  - au
+- grapheme: gon
+  phonemes:
+  - g3
+  - on3
+- grapheme: mut
+  phonemes:
+  - m3
+  - ut
+- grapheme: nung
+  phonemes:
+  - n3
+  - ung
+- grapheme: naat
+  phonemes:
+  - n3
+  - aat
+- grapheme: bung
+  phonemes:
+  - b3
+  - ung
+- grapheme: mak
+  phonemes:
+  - m3
+  - ak
+- grapheme: kaau
+  phonemes:
+  - k3
+  - au
+- grapheme: zyun
+  phonemes:
+  - z3
+  - yun3
+- grapheme: fok
+  phonemes:
+  - f3
+  - ok
+- grapheme: fe
+  phonemes:
+  - f3
+  - e3
+- grapheme: he
+  phonemes:
+  - h3
+  - e3
+- grapheme: o
+  phonemes:
+  - o3
+- grapheme: ping
+  phonemes:
+  - p3
+  - ing3
+- grapheme: pat
+  phonemes:
+  - p3
+  - at
+- grapheme: laat
+  phonemes:
+  - l3
+  - aat
+- grapheme: gim
+  phonemes:
+  - g3
+  - im
+- grapheme: zeng
+  phonemes:
+  - z3
+  - eng3
+- grapheme: sang
+  phonemes:
+  - s3
+  - ang3
+- grapheme: zang
+  phonemes:
+  - z3
+  - ang3
+- grapheme: zek
+  phonemes:
+  - z3
+  - ek
+- grapheme: gui
+  phonemes:
+  - g3
+  - ui3
+- grapheme: ang
+  phonemes:
+  - ang3
+- grapheme: seng
+  phonemes:
+  - s3
+  - eng3
+- grapheme: baan
+  phonemes:
+  - b3
+  - aan
+- grapheme: aai
+  phonemes:
+  - aai
+- grapheme: ngaau
+  phonemes:
+  - NG3
+  - aau
+- grapheme: soek
+  phonemes:
+  - s3
+  - oek
+- grapheme: gwaat
+  phonemes:
+  - gw
+  - aat
+- grapheme: maang
+  phonemes:
+  - m3
+  - aang
+- grapheme: caang
+  phonemes:
+  - c3
+  - aang
+- grapheme: aan
+  phonemes:
+  - aan
+- grapheme: miu
+  phonemes:
+  - m3
+  - iu3
+- grapheme: nuk
+  phonemes:
+  - n3
+  - uk
+- grapheme: haang
+  phonemes:
+  - h3
+  - aang
+- grapheme: saak
+  phonemes:
+  - s3
+  - aak
+- grapheme: dei
+  phonemes:
+  - d3
+  - ei3
+- grapheme: goek
+  phonemes:
+  - g3
+  - oek
+- grapheme: gwaang
+  phonemes:
+  - gw
+  - aang
+- grapheme: laau
+  phonemes:
+  - l3
+  - au
+- grapheme: naau
+  phonemes:
+  - n3
+  - au
+- grapheme: mo
+  phonemes:
+  - m3
+  - o3
+- grapheme: nam
+  phonemes:
+  - n3
+  - am
+- grapheme: nak
+  phonemes:
+  - n3
+  - ak
+- grapheme: an
+  phonemes:
+  - an3
+- grapheme: laang
+  phonemes:
+  - l3
+  - aang
+- grapheme: kwaang
+  phonemes:
+  - kw
+  - aang
+- grapheme: kwaak
+  phonemes:
+  - kw
+  - aak
+- grapheme: soi
+  phonemes:
+  - s3
+  - oi
+- grapheme: kim
+  phonemes:
+  - k3
+  - im
+- grapheme: zap
+  phonemes:
+  - z3
+  - ap
+- grapheme: au
+  phonemes:
+  - au
+- grapheme: gwang
+  phonemes:
+  - gw
+  - ang3
+- grapheme: paa
+  phonemes:
+  - p3
+  - aa3
+- grapheme: gaang
+  phonemes:
+  - g3
+  - aang
+- grapheme: uk
+  phonemes:
+  - uk
+- grapheme: ok
+  phonemes:
+  - ok
+- grapheme: jaai
+  phonemes:
+  - j3
+  - aai
+- grapheme: dep
+  phonemes:
+  - d3
+  - ep
+- grapheme: kaai
+  phonemes:
+  - k3
+  - aai
+- grapheme: kut
+  phonemes:
+  - k3
+  - ut
+- grapheme: beng
+  phonemes:
+  - b3
+  - eng3
+- grapheme: aang
+  phonemes:
+  - aang
+- grapheme: song
+  phonemes:
+  - s3
+  - ong3
+- grapheme: cak
+  phonemes:
+  - c3
+  - ak
+- grapheme: noeng
+  phonemes:
+  - n3
+  - oeng
+- grapheme: zoe
+  phonemes:
+  - z3
+  - oe
+- grapheme: kaak
+  phonemes:
+  - k3
+  - aak
+- grapheme: nai
+  phonemes:
+  - n
+  - ai3
+- grapheme: gyut
+  phonemes:
+  - g3
+  - yut
+- grapheme: nok
+  phonemes:
+  - n3
+  - ok
+- grapheme: gwaan
+  phonemes:
+  - gw
+  - aan
+- grapheme: tuk
+  phonemes:
+  - t3
+  - uk
+- grapheme: teon
+  phonemes:
+  - t3
+  - eon
+- grapheme: aat
+  phonemes:
+  - aat
+- grapheme: jaak
+  phonemes:
+  - j3
+  - aak
+- grapheme: paak
+  phonemes:
+  - p3
+  - aak
+- grapheme: le
+  phonemes:
+  - l3
+  - e3
+- grapheme: teot
+  phonemes:
+  - t3
+  - eot
+- grapheme: pe
+  phonemes:
+  - p3
+  - e3
+- grapheme: kwik
+  phonemes:
+  - kw
+  - ik
+- grapheme: ngaang
+  phonemes:
+  - NG3
+  - aang
+- grapheme: cek
+  phonemes:
+  - c3
+  - ek
+- grapheme: tit
+  phonemes:
+  - t3
+  - it
+- grapheme: ngit
+  phonemes:
+  - NG3
+  - it
+- grapheme: fut
+  phonemes:
+  - f3
+  - ut
+- grapheme: dek
+  phonemes:
+  - d3
+  - ek
+- grapheme: syut
+  phonemes:
+  - s3
+  - yut
+- grapheme: kwong
+  phonemes:
+  - kw
+  - ong3
+- grapheme: cok
+  phonemes:
+  - c3
+  - ok
+- grapheme: daa
+  phonemes:
+  - d3
+  - aa3
+- grapheme: kaat
+  phonemes:
+  - k3
+  - aat
+- grapheme: meng
+  phonemes:
+  - m
+  - eng3
+- grapheme: paat
+  phonemes:
+  - p3
+  - aat
+- grapheme: puk
+  phonemes:
+  - p3
+  - uk
+- grapheme: m
+  phonemes:
+  - m
+- grapheme: deng
+  phonemes:
+  - d3
+  - eng3
+- grapheme: ti
+  phonemes:
+  - t3
+  - i
+- grapheme: ceng
+  phonemes:
+  - c3
+  - eng3
+- grapheme: leng
+  phonemes:
+  - l
+  - eng3
+- grapheme: heng
+  phonemes:
+  - h
+  - eng3
+- grapheme: tok
+  phonemes:
+  - t3
+  - ok
+- grapheme: li
+  phonemes:
+  - l3
+  - i3
+- grapheme: doeng
+  phonemes:
+  - d3
+  - oeng
+- grapheme: baang
+  phonemes:
+  - b3
+  - aang
+- grapheme: bam
+  phonemes:
+  - b3
+  - am
+- grapheme: ne
+  phonemes:
+  - n3
+  - e3
+- grapheme: jaa
+  phonemes:
+  - j3
+  - a3
+- grapheme: kang
+  phonemes:
+  - k3
+  - ang3
+- grapheme: di
+  phonemes:
+  - d3
+  - i3
+- grapheme: coet
+  phonemes:
+  - c3
+  - oet
+- grapheme: gaat
+  phonemes:
+  - g3
+  - aat
+- grapheme: lan
+  phonemes:
+  - l3
+  - an3
+- grapheme: cyut
+  phonemes:
+  - c3
+  - yut
+- grapheme: taa
+  phonemes:
+  - t3
+  - aa3
+- grapheme: ni
+  phonemes:
+  - n3
+  - i3
+- grapheme: tap
+  phonemes:
+  - t3
+  - ap
+- grapheme: tyut
+  phonemes:
+  - t3
+  - yut
+- grapheme: laak
+  phonemes:
+  - l3
+  - aak
+- grapheme: poi
+  phonemes:
+  - p3
+  - oi
+- grapheme: keng
+  phonemes:
+  - k3
+  - eng3
+- grapheme: gep
+  phonemes:
+  - g3
+  - ep
+- grapheme: fit
+  phonemes:
+  - f3
+  - it
+- grapheme: peng
+  phonemes:
+  - p3
+  - eng3
+- grapheme: tam
+  phonemes:
+  - t3
+  - am
+- grapheme: jeng
+  phonemes:
+  - j3
+  - eng3
+- grapheme: deu
+  phonemes:
+  - d3
+  - eu
+- grapheme: cet
+  phonemes:
+  - c3
+  - et
+- grapheme: faak
+  phonemes:
+  - f3
+  - aak
+- grapheme: kaan
+  phonemes:
+  - k3
+  - aan
+- grapheme: pet
+  phonemes:
+  - p3
+  - et
+- grapheme: pek
+  phonemes:
+  - p3
+  - ek
+- grapheme: bak
+  phonemes:
+  - b3
+  - ak
+- grapheme: pot
+  phonemes:
+  - p3
+  - ot
+- grapheme: zem
+  phonemes:
+  - z3
+  - em
+- grapheme: kat
+  phonemes:
+  - k3
+  - at
+- grapheme: aak
+  phonemes:
+  - aak
+- grapheme: lek
+  phonemes:
+  - l3
+  - ek
+- grapheme: goe
+  phonemes:
+  - g3
+  - oe
+- grapheme: hek
+  phonemes:
+  - h
+  - ek
+- grapheme: ko
+  phonemes:
+  - k3
+  - o3
+- grapheme: gi
+  phonemes:
+  - g3
+  - i3
+- grapheme: ma
+  phonemes:
+  - m3
+  - a3
+- grapheme: nat
+  phonemes:
+  - n3
+  - at
+- grapheme: be
+  phonemes:
+  - b3
+  - e3
+- grapheme: ngak
+  phonemes:
+  - NG3
+  - ak
+- grapheme: gak
+  phonemes:
+  - g3
+  - ak
+- grapheme: zeu
+  phonemes:
+  - z3
+  - eu
+- grapheme: deot
+  phonemes:
+  - d3
+  - eot
+- grapheme: bi
+  phonemes:
+  - b3
+  - i3
+- grapheme: daak
+  phonemes:
+  - d3
+  - aak
+- grapheme: jaang
+  phonemes:
+  - j3
+  - aang
+- grapheme: hi
+  phonemes:
+  - h3
+  - i3
+- grapheme: mi
+  phonemes:
+  - m3
+  - i3
+- grapheme: jo
+  phonemes:
+  - j3
+  - o3
+- grapheme: jou
+  phonemes:
+  - j3
+  - ou
+- grapheme: hng
+  phonemes:
+  - h3
+  - ng3
+- grapheme: ngang
+  phonemes:
+  - NG3
+  - ang3
+- grapheme: om
+  phonemes:
+  - om
+- grapheme: toe
+  phonemes:
+  - t3
+  - oe
+- grapheme: bek
+  phonemes:
+  - b3
+  - ek
+- grapheme: nget
+  phonemes:
+  - NG3
+  - et
+- grapheme: koe
+  phonemes:
+  - k3
+  - oe
+- grapheme: wi
+  phonemes:
+  - w3
+  - i3
+- grapheme: kip
+  phonemes:
+  - k3
+  - ip
+- grapheme: kep
+  phonemes:
+  - k3
+  - ep
+- grapheme: haat
+  phonemes:
+  - h3
+  - aat
+- grapheme: gut
+  phonemes:
+  - g3
+  - ut
+- grapheme: bon
+  phonemes:
+  - b3
+  - on
+- grapheme: de
+  phonemes:
+  - d3
+  - e3
+- grapheme: ge
+  phonemes:
+  - g3
+  - e3
+- grapheme: ik
+  phonemes:
+  - ik
+- grapheme: lu
+  phonemes:
+  - l3
+  - u3
+- grapheme: hm
+  phonemes:
+  - h3
+  - m
+- grapheme: sep
+  phonemes:
+  - s3
+  - ep
+- grapheme: nan
+  phonemes:
+  - n3
+  - an3
+- grapheme: let
+  phonemes:
+  - l3
+  - et
+- grapheme: ngung
+  phonemes:
+  - NG3
+  - ung
+- grapheme: fang
+  phonemes:
+  - f3
+  - ang3
+- grapheme: hit
+  phonemes:
+  - h3
+  - it
+- grapheme: fing
+  phonemes:
+  - f3
+  - ing3
+- grapheme: gwak
+  phonemes:
+  - gw
+  - ak
+- grapheme: met
+  phonemes:
+  - m3
+  - et
+- grapheme: leu
+  phonemes:
+  - l3
+  - eu
+- grapheme: tek
+  phonemes:
+  - t3
+  - ek
+- grapheme: fik
+  phonemes:
+  - f3
+  - ik
+- grapheme: mu
+  phonemes:
+  - m3
+  - u3
+- grapheme: gwaak
+  phonemes:
+  - gw
+  - aak
+- grapheme: kik
+  phonemes:
+  - k3
+  - ik
+- grapheme: at
+  phonemes:
+  - at
+- grapheme: ngaap
+  phonemes:
+  - NG3
+  - aap
+- grapheme: lat
+  phonemes:
+  - l3
+  - at
+- grapheme: geot
+  phonemes:
+  - g3
+  - eot
+- grapheme: peu
+  phonemes:
+  - p3
+  - eu
+- grapheme: son
+  phonemes:
+  - s3
+  - on
+- grapheme: kaam
+  phonemes:
+  - k3
+  - am
+- grapheme: ei3
+  phonemes:
+  - ei3
+- grapheme: det
+  phonemes:
+  - d3
+  - et
+- grapheme: tet
+  phonemes:
+  - t3
+  - et
+- grapheme: loe
+  phonemes:
+  - l3
+  - oe
+- grapheme: soe
+  phonemes:
+  - s3
+  - oe
+- grapheme: fiu
+  phonemes:
+  - f3
+  - iu3
+- grapheme: gwei3
+  phonemes:
+  - gw
+  - ei3
+- grapheme: ki
+  phonemes:
+  - k3
+  - i3
+- grapheme: fi
+  phonemes:
+  - f3
+  - i3
+- grapheme: lem
+  phonemes:
+  - l3
+  - em
+- grapheme: mon
+  phonemes:
+  - m3
+  - on3
+- grapheme: aam
+  phonemes:
+  - aam
+- grapheme: noek
+  phonemes:
+  - n3
+  - oek
+- grapheme: kem
+  phonemes:
+  - k3
+  - em

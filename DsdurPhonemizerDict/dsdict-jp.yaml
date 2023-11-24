@@ -1,0 +1,681 @@
+symbols:
+- symbol: SP
+  type: vowel
+- symbol: AP
+  type: vowel
+- symbol: A1
+  type: vowel
+- symbol: E1
+  type: vowel
+- symbol: I1
+  type: vowel
+- symbol: N1
+  type: vowel
+- symbol: O1
+  type: vowel
+- symbol: U1
+  type: vowel
+- symbol: b'
+  type: fricative
+- symbol: b1
+  type: fricative
+- symbol: ch1
+  type: fricative
+- symbol: cl
+  type: vowel
+- symbol: d'
+  type: fricative
+- symbol: d1
+  type: fricative
+- symbol: f'
+  type: fricative
+- symbol: f1
+  type: fricative
+- symbol: g'
+  type: fricative
+- symbol: g1
+  type: fricative
+- symbol: h'
+  type: fricative
+- symbol: h1
+  type: fricative
+- symbol: j'
+  type: fricative
+- symbol: j1
+  type: fricative
+- symbol: k'
+  type: fricative
+- symbol: k1
+  type: fricative
+- symbol: m'
+  type: fricative
+- symbol: m1
+  type: fricative
+- symbol: n'
+  type: fricative
+- symbol: n1
+  type: fricative
+- symbol: p'
+  type: fricative
+- symbol: p1
+  type: fricative
+- symbol: r'
+  type: fricative
+- symbol: r1
+  type: fricative
+- symbol: s
+  type: fricative
+- symbol: sh1
+  type: fricative
+- symbol: t'
+  type: fricative
+- symbol: t1
+  type: fricative
+- symbol: ts1
+  type: fricative
+- symbol: vf
+  type: fricative
+- symbol: w1
+  type: fricative
+- symbol: y1
+  type: fricative
+- symbol: z1
+  type: fricative
+entries:
+- grapheme: SP
+  phonemes:
+  - SP
+- grapheme: AP
+  phonemes:
+  - AP
+- grapheme: a
+  phonemes:
+  - A1
+- grapheme: i
+  phonemes:
+  - I1
+- grapheme: u
+  phonemes:
+  - U1
+- grapheme: e
+  phonemes:
+  - E1
+- grapheme: o
+  phonemes:
+  - O1
+- grapheme: n
+  phonemes:
+  - N1
+- grapheme: br
+  phonemes:
+  - AP
+- grapheme: ka
+  phonemes:
+  - k1
+  - A1
+- grapheme: ki
+  phonemes:
+  - k'
+  - I1
+- grapheme: ku
+  phonemes:
+  - k1
+  - U1
+- grapheme: ke
+  phonemes:
+  - k1
+  - E1
+- grapheme: ko
+  phonemes:
+  - k1
+  - O1
+- grapheme: kya
+  phonemes:
+  - k'
+  - A1
+- grapheme: kye
+  phonemes:
+  - k'
+  - E1
+- grapheme: kyi
+  phonemes:
+  - k'
+  - I1
+- grapheme: kyo
+  phonemes:
+  - k'
+  - O1
+- grapheme: kyu
+  phonemes:
+  - k'
+  - U1
+- grapheme: sa
+  phonemes:
+  - s
+  - A1
+- grapheme: se
+  phonemes:
+  - s
+  - E1
+- grapheme: si
+  phonemes:
+  - s
+  - I1
+- grapheme: so
+  phonemes:
+  - s
+  - O1
+- grapheme: su
+  phonemes:
+  - s
+  - U1
+- grapheme: sha
+  phonemes:
+  - sh1
+  - A1
+- grapheme: she
+  phonemes:
+  - sh1
+  - E1
+- grapheme: shi
+  phonemes:
+  - sh1
+  - I1
+- grapheme: sho
+  phonemes:
+  - sh1
+  - O1
+- grapheme: shu
+  phonemes:
+  - sh1
+  - U1
+- grapheme: ta
+  phonemes:
+  - t1
+  - A1
+- grapheme: te
+  phonemes:
+  - t1
+  - E1
+- grapheme: ti
+  phonemes:
+  - t'
+  - I1
+- grapheme: to
+  phonemes:
+  - t1
+  - O1
+- grapheme: tu
+  phonemes:
+  - t1
+  - U1
+- grapheme: ha
+  phonemes:
+  - h1
+  - A1
+- grapheme: he
+  phonemes:
+  - h1
+  - E1
+- grapheme: hi
+  phonemes:
+  - h'
+  - I1
+- grapheme: ho
+  phonemes:
+  - h1
+  - O1
+- grapheme: hu
+  phonemes:
+  - h'
+  - U1
+- grapheme: hya
+  phonemes:
+  - h'
+  - A1
+- grapheme: hye
+  phonemes:
+  - h'
+  - E1
+- grapheme: hyi
+  phonemes:
+  - h'
+  - I1
+- grapheme: hyo
+  phonemes:
+  - h'
+  - O1
+- grapheme: hyu
+  phonemes:
+  - h'
+  - U1
+- grapheme: ga
+  phonemes:
+  - g1
+  - A1
+- grapheme: ge
+  phonemes:
+  - g1
+  - E1
+- grapheme: gi
+  phonemes:
+  - g'
+  - I1
+- grapheme: go
+  phonemes:
+  - g1
+  - O1
+- grapheme: gu
+  phonemes:
+  - g1
+  - U1
+- grapheme: gya
+  phonemes:
+  - g'
+  - A1
+- grapheme: gye
+  phonemes:
+  - g'
+  - E1
+- grapheme: gyi
+  phonemes:
+  - g'
+  - I1
+- grapheme: gyu
+  phonemes:
+  - g'
+  - U1
+- grapheme: gyo
+  phonemes:
+  - g'
+  - O1
+- grapheme: za
+  phonemes:
+  - z1
+  - A1
+- grapheme: ze
+  phonemes:
+  - z1
+  - E1
+- grapheme: zi
+  phonemes:
+  - z1
+  - I1
+- grapheme: zo
+  phonemes:
+  - z1
+  - O1
+- grapheme: zu
+  phonemes:
+  - z1
+  - U1
+- grapheme: da
+  phonemes:
+  - d1
+  - A1
+- grapheme: de
+  phonemes:
+  - d1
+  - E1
+- grapheme: di
+  phonemes:
+  - d'
+  - I1
+- grapheme: do
+  phonemes:
+  - d1
+  - O1
+- grapheme: du
+  phonemes:
+  - d1
+  - U1
+- grapheme: dya
+  phonemes:
+  - d'
+  - A1
+- grapheme: dyi
+  phonemes:
+  - d'
+  - I1
+- grapheme: dyu
+  phonemes:
+  - d'
+  - U1
+- grapheme: dye
+  phonemes:
+  - d'
+  - E1
+- grapheme: dyo
+  phonemes:
+  - d'
+  - O1
+- grapheme: ba
+  phonemes:
+  - b1
+  - A1
+- grapheme: be
+  phonemes:
+  - b1
+  - E1
+- grapheme: bi
+  phonemes:
+  - b'
+  - I1
+- grapheme: bo
+  phonemes:
+  - b1
+  - O1
+- grapheme: bu
+  phonemes:
+  - b1
+  - U1
+- grapheme: bya
+  phonemes:
+  - b'
+  - A1
+- grapheme: byi
+  phonemes:
+  - b'
+  - I1
+- grapheme: byu
+  phonemes:
+  - b'
+  - U1
+- grapheme: byo
+  phonemes:
+  - b'
+  - O1
+- grapheme: bye
+  phonemes:
+  - b'
+  - E1
+- grapheme: pa
+  phonemes:
+  - p1
+  - A1
+- grapheme: pe
+  phonemes:
+  - p1
+  - E1
+- grapheme: pi
+  phonemes:
+  - p'
+  - I1
+- grapheme: po
+  phonemes:
+  - p1
+  - O1
+- grapheme: pu
+  phonemes:
+  - p1
+  - U1
+- grapheme: pya
+  phonemes:
+  - p'
+  - A1
+- grapheme: pye
+  phonemes:
+  - p'
+  - E1
+- grapheme: pyi
+  phonemes:
+  - p'
+  - I1
+- grapheme: pyo
+  phonemes:
+  - p'
+  - O1
+- grapheme: pyu
+  phonemes:
+  - p'
+  - U1
+- grapheme: ja
+  phonemes:
+  - j1
+  - A1
+- grapheme: je
+  phonemes:
+  - j1
+  - E1
+- grapheme: ji
+  phonemes:
+  - j'
+  - I1
+- grapheme: jo
+  phonemes:
+  - j1
+  - O1
+- grapheme: ju
+  phonemes:
+  - j1
+  - U1
+- grapheme: fa
+  phonemes:
+  - f1
+  - A1
+- grapheme: fe
+  phonemes:
+  - f1
+  - E1
+- grapheme: fi
+  phonemes:
+  - f'
+  - I1
+- grapheme: fo
+  phonemes:
+  - f1
+  - O1
+- grapheme: fu
+  phonemes:
+  - f1
+  - U1
+- grapheme: cha
+  phonemes:
+  - ch1
+  - A1
+- grapheme: che
+  phonemes:
+  - ch1
+  - E1
+- grapheme: chi
+  phonemes:
+  - ch1
+  - I1
+- grapheme: cho
+  phonemes:
+  - ch1
+  - O1
+- grapheme: chu
+  phonemes:
+  - ch1
+  - U1
+- grapheme: tsa
+  phonemes:
+  - ts1
+  - A1
+- grapheme: tse
+  phonemes:
+  - ts1
+  - E1
+- grapheme: tsi
+  phonemes:
+  - ts1
+  - I1
+- grapheme: tso
+  phonemes:
+  - ts1
+  - O1
+- grapheme: tsu
+  phonemes:
+  - ts1
+  - U1
+- grapheme: na
+  phonemes:
+  - n1
+  - A1
+- grapheme: ne
+  phonemes:
+  - n1
+  - E1
+- grapheme: ni
+  phonemes:
+  - n'
+  - I1
+- grapheme: no
+  phonemes:
+  - n1
+  - O1
+- grapheme: nu
+  phonemes:
+  - n1
+  - U1
+- grapheme: nya
+  phonemes:
+  - n'
+  - A1
+- grapheme: nye
+  phonemes:
+  - n'
+  - E1
+- grapheme: nyi
+  phonemes:
+  - n'
+  - I1
+- grapheme: nyo
+  phonemes:
+  - n'
+  - O1
+- grapheme: nyu
+  phonemes:
+  - n'
+  - U1
+- grapheme: ma
+  phonemes:
+  - m1
+  - A1
+- grapheme: me
+  phonemes:
+  - m1
+  - E1
+- grapheme: mi
+  phonemes:
+  - m'
+  - I1
+- grapheme: mo
+  phonemes:
+  - m1
+  - O1
+- grapheme: mu
+  phonemes:
+  - m1
+  - U1
+- grapheme: mya
+  phonemes:
+  - m'
+  - A1
+- grapheme: mye
+  phonemes:
+  - m'
+  - E1
+- grapheme: myi
+  phonemes:
+  - m'
+  - I1
+- grapheme: myo
+  phonemes:
+  - m'
+  - O1
+- grapheme: myu
+  phonemes:
+  - m'
+  - U1
+- grapheme: ra
+  phonemes:
+  - r1
+  - A1
+- grapheme: re
+  phonemes:
+  - r1
+  - E1
+- grapheme: ri
+  phonemes:
+  - r'
+  - I1
+- grapheme: ro
+  phonemes:
+  - r1
+  - O1
+- grapheme: ru
+  phonemes:
+  - r1
+  - U1
+- grapheme: rya
+  phonemes:
+  - r'
+  - A1
+- grapheme: rye
+  phonemes:
+  - r'
+  - E1
+- grapheme: ryi
+  phonemes:
+  - r'
+  - I1
+- grapheme: ryu
+  phonemes:
+  - r'
+  - U1
+- grapheme: ryo
+  phonemes:
+  - r'
+  - O1
+- grapheme: ya
+  phonemes:
+  - y1
+  - A1
+- grapheme: ye
+  phonemes:
+  - y1
+  - E1
+- grapheme: yi
+  phonemes:
+  - y1
+  - I1
+- grapheme: yo
+  phonemes:
+  - y1
+  - O1
+- grapheme: yu
+  phonemes:
+  - y1
+  - U1
+- grapheme: wa
+  phonemes:
+  - w1
+  - A1
+- grapheme: we
+  phonemes:
+  - w1
+  - E1
+- grapheme: wi
+  phonemes:
+  - w1
+  - I1
+- grapheme: wo
+  phonemes:
+  - w1
+  - O1
+- grapheme: wu
+  phonemes:
+  - w1
+  - U1
+- grapheme: tyu
+  phonemes:
+  - t'
+  - U1
+- grapheme: cl
+  phonemes:
+  - cl
+- grapheme: vf
+  phonemes:
+  - vf

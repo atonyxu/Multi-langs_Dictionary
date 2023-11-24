@@ -1,0 +1,5356 @@
+symbols:
+- symbol: SP
+  type: vowel
+- symbol: AP
+  type: vowel
+- symbol: a
+  type: vowel
+- symbol: ai
+  type: vowel
+- symbol: an
+  type: vowel
+- symbol: ang
+  type: vowel
+- symbol: ao
+  type: vowel
+- symbol: e
+  type: vowel
+- symbol: ei
+  type: vowel
+- symbol: en
+  type: vowel
+- symbol: eng
+  type: vowel
+- symbol: er
+  type: vowel
+- symbol: i
+  type: vowel
+- symbol: ia
+  type: vowel
+- symbol: ian
+  type: vowel
+- symbol: iang
+  type: vowel
+- symbol: iao
+  type: vowel
+- symbol: ie
+  type: vowel
+- symbol: in
+  type: vowel
+- symbol: ing
+  type: vowel
+- symbol: iong
+  type: vowel
+- symbol: iu
+  type: vowel
+- symbol: o
+  type: vowel
+- symbol: ong
+  type: vowel
+- symbol: ou
+  type: vowel
+- symbol: u
+  type: vowel
+- symbol: ua
+  type: vowel
+- symbol: uai
+  type: vowel
+- symbol: uan
+  type: vowel
+- symbol: uang
+  type: vowel
+- symbol: ui
+  type: vowel
+- symbol: un
+  type: vowel
+- symbol: v
+  type: vowel
+- symbol: ve
+  type: vowel
+- symbol: ir
+  type: vowel
+- symbol: uo
+  type: vowel
+- symbol: i0
+  type: vowel
+- symbol: van
+  type: vowel
+- symbol: vn
+  type: vowel
+- symbol: En
+  type: vowel
+- symbol: E
+  type: vowel
+- symbol: vE0
+  type: vowel
+- symbol: ua0
+  type: vowel
+- symbol: uE0
+  type: vowel
+- symbol: iO0
+  type: vowel
+- symbol: e0
+  type: vowel
+- symbol: iA0
+  type: vowel
+- symbol: E0
+  type: vowel
+- symbol: v0
+  type: vowel
+- symbol: ue0
+  type: vowel
+- symbol: O0
+  type: vowel
+- symbol: io0
+  type: vowel
+- symbol: o0
+  type: vowel
+- symbol: I0
+  type: vowel
+- symbol: N0
+  type: vowel
+- symbol: ng0
+  type: vowel
+- symbol: oo0
+  type: vowel
+- symbol: uA0
+  type: vowel
+- symbol: a0
+  type: vowel
+- symbol: i0
+  type: vowel
+- symbol: U0
+  type: vowel
+- symbol: A0
+  type: vowel
+- symbol: iE0
+  type: vowel
+- symbol: b
+  type: fricative
+- symbol: c
+  type: fricative
+- symbol: ch
+  type: fricative
+- symbol: d
+  type: fricative
+- symbol: f
+  type: fricative
+- symbol: g
+  type: fricative
+- symbol: h
+  type: fricative
+- symbol: j
+  type: fricative
+- symbol: k
+  type: fricative
+- symbol: l
+  type: fricative
+- symbol: m
+  type: fricative
+- symbol: n
+  type: fricative
+- symbol: p
+  type: fricative
+- symbol: q
+  type: fricative
+- symbol: r
+  type: fricative
+- symbol: s
+  type: fricative
+- symbol: sh
+  type: fricative
+- symbol: t
+  type: fricative
+- symbol: w
+  type: fricative
+- symbol: x
+  type: fricative
+- symbol: y
+  type: fricative
+- symbol: z
+  type: fricative
+- symbol: zh
+  type: fricative
+entries:
+- grapheme: SP
+  phonemes:
+  - SP
+- grapheme: AP
+  phonemes:
+  - AP
+- grapheme: a
+  phonemes:
+  - a
+- grapheme: ai
+  phonemes:
+  - ai
+- grapheme: ai0
+  phonemes:
+  - a0
+  - I0
+- grapheme: an
+  phonemes:
+  - an
+- grapheme: an0
+  phonemes:
+  - a0
+  - N0
+- grapheme: ang
+  phonemes:
+  - ang
+- grapheme: ang0
+  phonemes:
+  - A0
+  - ng0
+- grapheme: ao
+  phonemes:
+  - ao
+- grapheme: ao0
+  phonemes:
+  - A0
+  - O0
+- grapheme: ba
+  phonemes:
+  - b
+  - a
+- grapheme: bai
+  phonemes:
+  - b
+  - a0
+  - I0
+- grapheme: ban
+  phonemes:
+  - b
+  - a0
+  - N0
+- grapheme: bang
+  phonemes:
+  - b
+  - A0
+  - ng0
+- grapheme: bao
+  phonemes:
+  - b
+  - A0
+  - O0
+- grapheme: be
+  phonemes:
+  - b
+  - e
+- grapheme: bei
+  phonemes:
+  - b
+  - E0
+  - I0
+- grapheme: ben
+  phonemes:
+  - b
+  - e0
+  - N0
+- grapheme: beng
+  phonemes:
+  - b
+  - e0
+  - ng0
+- grapheme: ber
+  phonemes:
+  - b
+  - er
+- grapheme: bi
+  phonemes:
+  - b
+  - i
+- grapheme: bia
+  phonemes:
+  - b
+  - ia
+- grapheme: bian
+  phonemes:
+  - b
+  - iE0
+  - N0
+- grapheme: biang
+  phonemes:
+  - b
+  - iA0
+  - ng0
+- grapheme: biao
+  phonemes:
+  - b
+  - iA0
+  - O0
+- grapheme: bie
+  phonemes:
+  - b
+  - ie
+- grapheme: bin
+  phonemes:
+  - b
+  - i
+  - N0
+- grapheme: bing
+  phonemes:
+  - b
+  - i
+  - ng0
+- grapheme: biong
+  phonemes:
+  - b
+  - iO0
+  - ng0
+- grapheme: biu
+  phonemes:
+  - b
+  - io0
+  - U0
+- grapheme: bo
+  phonemes:
+  - b
+  - o
+- grapheme: bong
+  phonemes:
+  - b
+  - oo0
+  - ng0
+- grapheme: bou
+  phonemes:
+  - b
+  - o0
+  - U0
+- grapheme: bu
+  phonemes:
+  - b
+  - u
+- grapheme: bua
+  phonemes:
+  - b
+  - ua
+- grapheme: buai
+  phonemes:
+  - b
+  - ua0
+  - I0
+- grapheme: buan
+  phonemes:
+  - b
+  - ua0
+  - N0
+- grapheme: buang
+  phonemes:
+  - b
+  - uA0
+  - ng0
+- grapheme: bui
+  phonemes:
+  - b
+  - uE0
+  - I0
+- grapheme: bun
+  phonemes:
+  - b
+  - ue0
+  - N0
+- grapheme: bv
+  phonemes:
+  - b
+  - v
+- grapheme: bve
+  phonemes:
+  - b
+  - ve
+- grapheme: ca
+  phonemes:
+  - c
+  - a
+- grapheme: cai
+  phonemes:
+  - c
+  - a0
+  - I0
+- grapheme: can
+  phonemes:
+  - c
+  - a0
+  - N0
+- grapheme: cang
+  phonemes:
+  - c
+  - A0
+  - ng0
+- grapheme: cao
+  phonemes:
+  - c
+  - A0
+  - O0
+- grapheme: ce
+  phonemes:
+  - c
+  - e
+- grapheme: cei
+  phonemes:
+  - c
+  - E0
+  - I0
+- grapheme: cen
+  phonemes:
+  - c
+  - e0
+  - N0
+- grapheme: ceng
+  phonemes:
+  - c
+  - e0
+  - ng0
+- grapheme: cer
+  phonemes:
+  - c
+  - er
+- grapheme: cha
+  phonemes:
+  - ch
+  - a
+- grapheme: chai
+  phonemes:
+  - ch
+  - a0
+  - I0
+- grapheme: chan
+  phonemes:
+  - ch
+  - a0
+  - N0
+- grapheme: chang
+  phonemes:
+  - ch
+  - A0
+  - ng0
+- grapheme: chao
+  phonemes:
+  - ch
+  - A0
+  - O0
+- grapheme: che
+  phonemes:
+  - ch
+  - e
+- grapheme: chei
+  phonemes:
+  - ch
+  - E0
+  - I0
+- grapheme: chen
+  phonemes:
+  - ch
+  - e0
+  - N0
+- grapheme: cheng
+  phonemes:
+  - ch
+  - e0
+  - ng0
+- grapheme: cher
+  phonemes:
+  - ch
+  - er
+- grapheme: chi
+  phonemes:
+  - ch
+  - ir
+- grapheme: chong
+  phonemes:
+  - ch
+  - oo0
+  - ng0
+- grapheme: chou
+  phonemes:
+  - ch
+  - o0
+  - U0
+- grapheme: chu
+  phonemes:
+  - ch
+  - u
+- grapheme: chua
+  phonemes:
+  - ch
+  - ua
+- grapheme: chuai
+  phonemes:
+  - ch
+  - ua0
+  - I0
+- grapheme: chuan
+  phonemes:
+  - ch
+  - ua0
+  - N0
+- grapheme: chuang
+  phonemes:
+  - ch
+  - uA0
+  - ng0
+- grapheme: chui
+  phonemes:
+  - ch
+  - uE0
+  - I0
+- grapheme: chun
+  phonemes:
+  - ch
+  - ue0
+  - N0
+- grapheme: chuo
+  phonemes:
+  - ch
+  - uo
+- grapheme: chv
+  phonemes:
+  - ch
+  - v
+- grapheme: chyi
+  phonemes:
+  - ch
+  - i
+- grapheme: ci
+  phonemes:
+  - c
+  - i0
+- grapheme: cong
+  phonemes:
+  - c
+  - oo0
+  - ng0
+- grapheme: cou
+  phonemes:
+  - c
+  - o0
+  - U0
+- grapheme: cu
+  phonemes:
+  - c
+  - u
+- grapheme: cua
+  phonemes:
+  - c
+  - ua
+- grapheme: cuai
+  phonemes:
+  - c
+  - ua0
+  - I0
+- grapheme: cuan
+  phonemes:
+  - c
+  - ua0
+  - N0
+- grapheme: cuang
+  phonemes:
+  - c
+  - uA0
+  - ng0
+- grapheme: cui
+  phonemes:
+  - c
+  - uE0
+  - I0
+- grapheme: cun
+  phonemes:
+  - c
+  - ue0
+  - N0
+- grapheme: cuo
+  phonemes:
+  - c
+  - uo
+- grapheme: cv
+  phonemes:
+  - c
+  - v
+- grapheme: cyi
+  phonemes:
+  - c
+  - i
+- grapheme: da
+  phonemes:
+  - d
+  - a
+- grapheme: dai
+  phonemes:
+  - d
+  - a0
+  - I0
+- grapheme: dan
+  phonemes:
+  - d
+  - a0
+  - N0
+- grapheme: dang
+  phonemes:
+  - d
+  - A0
+  - ng0
+- grapheme: dao
+  phonemes:
+  - d
+  - A0
+  - O0
+- grapheme: de
+  phonemes:
+  - d
+  - e
+- grapheme: dei
+  phonemes:
+  - d
+  - E0
+  - I0
+- grapheme: den
+  phonemes:
+  - d
+  - e0
+  - N0
+- grapheme: deng
+  phonemes:
+  - d
+  - e0
+  - ng0
+- grapheme: der
+  phonemes:
+  - d
+  - er
+- grapheme: di
+  phonemes:
+  - d
+  - i
+- grapheme: dia
+  phonemes:
+  - d
+  - ia
+- grapheme: dian
+  phonemes:
+  - d
+  - iE0
+  - N0
+- grapheme: diang
+  phonemes:
+  - d
+  - iA0
+  - ng0
+- grapheme: diao
+  phonemes:
+  - d
+  - iA0
+  - O0
+- grapheme: die
+  phonemes:
+  - d
+  - ie
+- grapheme: din
+  phonemes:
+  - d
+  - i
+  - N0
+- grapheme: ding
+  phonemes:
+  - d
+  - i
+  - ng0
+- grapheme: diong
+  phonemes:
+  - d
+  - iO0
+  - ng0
+- grapheme: diu
+  phonemes:
+  - d
+  - io0
+  - U0
+- grapheme: dong
+  phonemes:
+  - d
+  - oo0
+  - ng0
+- grapheme: dou
+  phonemes:
+  - d
+  - o0
+  - U0
+- grapheme: du
+  phonemes:
+  - d
+  - u
+- grapheme: dua
+  phonemes:
+  - d
+  - ua
+- grapheme: duai
+  phonemes:
+  - d
+  - ua0
+  - I0
+- grapheme: duan
+  phonemes:
+  - d
+  - ua0
+  - N0
+- grapheme: duang
+  phonemes:
+  - d
+  - uA0
+  - ng0
+- grapheme: dui
+  phonemes:
+  - d
+  - uE0
+  - I0
+- grapheme: dun
+  phonemes:
+  - d
+  - ue0
+  - N0
+- grapheme: duo
+  phonemes:
+  - d
+  - uo
+- grapheme: dv
+  phonemes:
+  - d
+  - v
+- grapheme: dve
+  phonemes:
+  - d
+  - ve
+- grapheme: e
+  phonemes:
+  - e
+- grapheme: ei
+  phonemes:
+  - E0
+  - I0
+- grapheme: en
+  phonemes:
+  - e0
+  - N0
+- grapheme: eng
+  phonemes:
+  - e0
+  - ng0
+- grapheme: er
+  phonemes:
+  - er
+- grapheme: fa
+  phonemes:
+  - f
+  - a
+- grapheme: fai
+  phonemes:
+  - f
+  - a0
+  - I0
+- grapheme: fan
+  phonemes:
+  - f
+  - a0
+  - N0
+- grapheme: fang
+  phonemes:
+  - f
+  - A0
+  - ng0
+- grapheme: fao
+  phonemes:
+  - f
+  - A0
+  - O0
+- grapheme: fe
+  phonemes:
+  - f
+  - e
+- grapheme: fei
+  phonemes:
+  - f
+  - E0
+  - I0
+- grapheme: fen
+  phonemes:
+  - f
+  - e0
+  - N0
+- grapheme: feng
+  phonemes:
+  - f
+  - e0
+  - ng0
+- grapheme: fer
+  phonemes:
+  - f
+  - er
+- grapheme: fi
+  phonemes:
+  - f
+  - i
+- grapheme: fia
+  phonemes:
+  - f
+  - ia
+- grapheme: fian
+  phonemes:
+  - f
+  - iE0
+  - N0
+- grapheme: fiang
+  phonemes:
+  - f
+  - iA0
+  - ng0
+- grapheme: fiao
+  phonemes:
+  - f
+  - iA0
+  - O0
+- grapheme: fie
+  phonemes:
+  - f
+  - ie
+- grapheme: fin
+  phonemes:
+  - f
+  - i
+  - N0
+- grapheme: fing
+  phonemes:
+  - f
+  - i
+  - ng0
+- grapheme: fiong
+  phonemes:
+  - f
+  - iO0
+  - ng0
+- grapheme: fiu
+  phonemes:
+  - f
+  - io0
+  - U0
+- grapheme: fo
+  phonemes:
+  - f
+  - o
+- grapheme: fong
+  phonemes:
+  - f
+  - oo0
+  - ng0
+- grapheme: fou
+  phonemes:
+  - f
+  - o0
+  - U0
+- grapheme: fu
+  phonemes:
+  - f
+  - u
+- grapheme: fua
+  phonemes:
+  - f
+  - ua
+- grapheme: fuai
+  phonemes:
+  - f
+  - ua0
+  - I0
+- grapheme: fuan
+  phonemes:
+  - f
+  - ua0
+  - N0
+- grapheme: fuang
+  phonemes:
+  - f
+  - uA0
+  - ng0
+- grapheme: fui
+  phonemes:
+  - f
+  - uE0
+  - I0
+- grapheme: fun
+  phonemes:
+  - f
+  - ue0
+  - N0
+- grapheme: fv
+  phonemes:
+  - f
+  - v
+- grapheme: fve
+  phonemes:
+  - f
+  - ve
+- grapheme: ga
+  phonemes:
+  - g
+  - a
+- grapheme: gai
+  phonemes:
+  - g
+  - a0
+  - I0
+- grapheme: gan
+  phonemes:
+  - g
+  - a0
+  - N0
+- grapheme: gang
+  phonemes:
+  - g
+  - A0
+  - ng0
+- grapheme: gao
+  phonemes:
+  - g
+  - A0
+  - O0
+- grapheme: ge
+  phonemes:
+  - g
+  - e
+- grapheme: gei
+  phonemes:
+  - g
+  - E0
+  - I0
+- grapheme: gen
+  phonemes:
+  - g
+  - e0
+  - N0
+- grapheme: geng
+  phonemes:
+  - g
+  - e0
+  - ng0
+- grapheme: ger
+  phonemes:
+  - g
+  - er
+- grapheme: gi
+  phonemes:
+  - g
+  - i
+- grapheme: gia
+  phonemes:
+  - g
+  - ia
+- grapheme: gian
+  phonemes:
+  - g
+  - iE0
+  - N0
+- grapheme: giang
+  phonemes:
+  - g
+  - iA0
+  - ng0
+- grapheme: giao
+  phonemes:
+  - g
+  - iA0
+  - O0
+- grapheme: gie
+  phonemes:
+  - g
+  - ie
+- grapheme: gin
+  phonemes:
+  - g
+  - i
+  - N0
+- grapheme: ging
+  phonemes:
+  - g
+  - i
+  - ng0
+- grapheme: giong
+  phonemes:
+  - g
+  - iO0
+  - ng0
+- grapheme: giu
+  phonemes:
+  - g
+  - io0
+  - U0
+- grapheme: gong
+  phonemes:
+  - g
+  - oo0
+  - ng0
+- grapheme: gou
+  phonemes:
+  - g
+  - o0
+  - U0
+- grapheme: gu
+  phonemes:
+  - g
+  - u
+- grapheme: gua
+  phonemes:
+  - g
+  - ua
+- grapheme: guai
+  phonemes:
+  - g
+  - ua0
+  - I0
+- grapheme: guan
+  phonemes:
+  - g
+  - ua0
+  - N0
+- grapheme: guang
+  phonemes:
+  - g
+  - uA0
+  - ng0
+- grapheme: gui
+  phonemes:
+  - g
+  - uE0
+  - I0
+- grapheme: gun
+  phonemes:
+  - g
+  - ue0
+  - N0
+- grapheme: guo
+  phonemes:
+  - g
+  - uo
+- grapheme: gv
+  phonemes:
+  - g
+  - v
+- grapheme: gve
+  phonemes:
+  - g
+  - ve
+- grapheme: ha
+  phonemes:
+  - h
+  - a
+- grapheme: hai
+  phonemes:
+  - h
+  - a0
+  - I0
+- grapheme: han
+  phonemes:
+  - h
+  - a0
+  - N0
+- grapheme: hang
+  phonemes:
+  - h
+  - A0
+  - ng0
+- grapheme: hao
+  phonemes:
+  - h
+  - A0
+  - O0
+- grapheme: he
+  phonemes:
+  - h
+  - e
+- grapheme: hei
+  phonemes:
+  - h
+  - E0
+  - I0
+- grapheme: hen
+  phonemes:
+  - h
+  - e0
+  - N0
+- grapheme: heng
+  phonemes:
+  - h
+  - e0
+  - ng0
+- grapheme: her
+  phonemes:
+  - h
+  - er
+- grapheme: hi
+  phonemes:
+  - h
+  - i
+- grapheme: hia
+  phonemes:
+  - h
+  - ia
+- grapheme: hian
+  phonemes:
+  - h
+  - iE0
+  - N0
+- grapheme: hiang
+  phonemes:
+  - h
+  - iA0
+  - ng0
+- grapheme: hiao
+  phonemes:
+  - h
+  - iA0
+  - O0
+- grapheme: hie
+  phonemes:
+  - h
+  - ie
+- grapheme: hin
+  phonemes:
+  - h
+  - i
+  - N0
+- grapheme: hing
+  phonemes:
+  - h
+  - i
+  - ng0
+- grapheme: hiong
+  phonemes:
+  - h
+  - iO0
+  - ng0
+- grapheme: hiu
+  phonemes:
+  - h
+  - io0
+  - U0
+- grapheme: hong
+  phonemes:
+  - h
+  - oo0
+  - ng0
+- grapheme: hou
+  phonemes:
+  - h
+  - o0
+  - U0
+- grapheme: hu
+  phonemes:
+  - h
+  - u
+- grapheme: hua
+  phonemes:
+  - h
+  - ua
+- grapheme: huai
+  phonemes:
+  - h
+  - ua0
+  - I0
+- grapheme: huan
+  phonemes:
+  - h
+  - ua0
+  - N0
+- grapheme: huang
+  phonemes:
+  - h
+  - uA0
+  - ng0
+- grapheme: hui
+  phonemes:
+  - h
+  - uE0
+  - I0
+- grapheme: hun
+  phonemes:
+  - h
+  - ue0
+  - N0
+- grapheme: huo
+  phonemes:
+  - h
+  - uo
+- grapheme: hv
+  phonemes:
+  - h
+  - v
+- grapheme: hve
+  phonemes:
+  - h
+  - ve
+- grapheme: ji
+  phonemes:
+  - j
+  - i
+- grapheme: jia
+  phonemes:
+  - j
+  - ia
+- grapheme: jian
+  phonemes:
+  - j
+  - iE0
+  - N0
+- grapheme: jiang
+  phonemes:
+  - j
+  - iA0
+  - ng0
+- grapheme: jiao
+  phonemes:
+  - j
+  - iA0
+  - O0
+- grapheme: jie
+  phonemes:
+  - j
+  - ie
+- grapheme: jin
+  phonemes:
+  - j
+  - i
+  - N0
+- grapheme: jing
+  phonemes:
+  - j
+  - i
+  - ng0
+- grapheme: jiong
+  phonemes:
+  - j
+  - iO0
+  - ng0
+- grapheme: jiu
+  phonemes:
+  - j
+  - io0
+  - U0
+- grapheme: ju
+  phonemes:
+  - j
+  - v
+- grapheme: juan
+  phonemes:
+  - j
+  - vE0
+  - N0
+- grapheme: jue
+  phonemes:
+  - j
+  - ve
+- grapheme: jun
+  phonemes:
+  - j
+  - v0
+  - N0
+- grapheme: ka
+  phonemes:
+  - k
+  - a
+- grapheme: kai
+  phonemes:
+  - k
+  - a0
+  - I0
+- grapheme: kan
+  phonemes:
+  - k
+  - a0
+  - N0
+- grapheme: kang
+  phonemes:
+  - k
+  - A0
+  - ng0
+- grapheme: kao
+  phonemes:
+  - k
+  - A0
+  - O0
+- grapheme: ke
+  phonemes:
+  - k
+  - e
+- grapheme: kei
+  phonemes:
+  - k
+  - E0
+  - I0
+- grapheme: ken
+  phonemes:
+  - k
+  - e0
+  - N0
+- grapheme: keng
+  phonemes:
+  - k
+  - e0
+  - ng0
+- grapheme: ker
+  phonemes:
+  - k
+  - er
+- grapheme: ki
+  phonemes:
+  - k
+  - i
+- grapheme: kia
+  phonemes:
+  - k
+  - ia
+- grapheme: kian
+  phonemes:
+  - k
+  - iE0
+  - N0
+- grapheme: kiang
+  phonemes:
+  - k
+  - iA0
+  - ng0
+- grapheme: kiao
+  phonemes:
+  - k
+  - iA0
+  - O0
+- grapheme: kie
+  phonemes:
+  - k
+  - ie
+- grapheme: kin
+  phonemes:
+  - k
+  - i
+  - N0
+- grapheme: king
+  phonemes:
+  - k
+  - i
+  - ng0
+- grapheme: kiong
+  phonemes:
+  - k
+  - iO0
+  - ng0
+- grapheme: kiu
+  phonemes:
+  - k
+  - io0
+  - U0
+- grapheme: kong
+  phonemes:
+  - k
+  - oo0
+  - ng0
+- grapheme: kou
+  phonemes:
+  - k
+  - o0
+  - U0
+- grapheme: ku
+  phonemes:
+  - k
+  - u
+- grapheme: kua
+  phonemes:
+  - k
+  - ua
+- grapheme: kuai
+  phonemes:
+  - k
+  - ua0
+  - I0
+- grapheme: kuan
+  phonemes:
+  - k
+  - ua0
+  - N0
+- grapheme: kuang
+  phonemes:
+  - k
+  - uA0
+  - ng0
+- grapheme: kui
+  phonemes:
+  - k
+  - uE0
+  - I0
+- grapheme: kun
+  phonemes:
+  - k
+  - ue0
+  - N0
+- grapheme: kuo
+  phonemes:
+  - k
+  - uo
+- grapheme: kv
+  phonemes:
+  - k
+  - v
+- grapheme: kve
+  phonemes:
+  - k
+  - ve
+- grapheme: la
+  phonemes:
+  - l
+  - a
+- grapheme: lai
+  phonemes:
+  - l
+  - a0
+  - I0
+- grapheme: lan
+  phonemes:
+  - l
+  - a0
+  - N0
+- grapheme: lang
+  phonemes:
+  - l
+  - A0
+  - ng0
+- grapheme: lao
+  phonemes:
+  - l
+  - A0
+  - O0
+- grapheme: le
+  phonemes:
+  - l
+  - e
+- grapheme: lei
+  phonemes:
+  - l
+  - E0
+  - I0
+- grapheme: len
+  phonemes:
+  - l
+  - e0
+  - N0
+- grapheme: leng
+  phonemes:
+  - l
+  - e0
+  - ng0
+- grapheme: ler
+  phonemes:
+  - l
+  - er
+- grapheme: li
+  phonemes:
+  - l
+  - i
+- grapheme: lia
+  phonemes:
+  - l
+  - ia
+- grapheme: lian
+  phonemes:
+  - l
+  - iE0
+  - N0
+- grapheme: liang
+  phonemes:
+  - l
+  - iA0
+  - ng0
+- grapheme: liao
+  phonemes:
+  - l
+  - iA0
+  - O0
+- grapheme: lie
+  phonemes:
+  - l
+  - ie
+- grapheme: lin
+  phonemes:
+  - l
+  - i
+  - N0
+- grapheme: ling
+  phonemes:
+  - l
+  - i
+  - ng0
+- grapheme: liong
+  phonemes:
+  - l
+  - iO0
+  - ng0
+- grapheme: liu
+  phonemes:
+  - l
+  - io0
+  - U0
+- grapheme: lo
+  phonemes:
+  - l
+  - o
+- grapheme: long
+  phonemes:
+  - l
+  - oo0
+  - ng0
+- grapheme: lou
+  phonemes:
+  - l
+  - o0
+  - U0
+- grapheme: lu
+  phonemes:
+  - l
+  - u
+- grapheme: lua
+  phonemes:
+  - l
+  - ua
+- grapheme: luai
+  phonemes:
+  - l
+  - ua0
+  - I0
+- grapheme: luan
+  phonemes:
+  - l
+  - ua0
+  - N0
+- grapheme: luang
+  phonemes:
+  - l
+  - uA0
+  - ng0
+- grapheme: lui
+  phonemes:
+  - l
+  - uE0
+  - I0
+- grapheme: lun
+  phonemes:
+  - l
+  - ue0
+  - N0
+- grapheme: luo
+  phonemes:
+  - l
+  - uo
+- grapheme: lv
+  phonemes:
+  - l
+  - v
+- grapheme: lve
+  phonemes:
+  - l
+  - ve
+- grapheme: ma
+  phonemes:
+  - m
+  - a
+- grapheme: mai
+  phonemes:
+  - m
+  - a0
+  - I0
+- grapheme: man
+  phonemes:
+  - m
+  - a0
+  - N0
+- grapheme: mang
+  phonemes:
+  - m
+  - A0
+  - ng0
+- grapheme: mao
+  phonemes:
+  - m
+  - A0
+  - O0
+- grapheme: me
+  phonemes:
+  - m
+  - e
+- grapheme: mei
+  phonemes:
+  - m
+  - E0
+  - I0
+- grapheme: men
+  phonemes:
+  - m
+  - e0
+  - N0
+- grapheme: meng
+  phonemes:
+  - m
+  - e0
+  - ng0
+- grapheme: mer
+  phonemes:
+  - m
+  - er
+- grapheme: mi
+  phonemes:
+  - m
+  - i
+- grapheme: mia
+  phonemes:
+  - m
+  - ia
+- grapheme: mian
+  phonemes:
+  - m
+  - iE0
+  - N0
+- grapheme: miang
+  phonemes:
+  - m
+  - iA0
+  - ng0
+- grapheme: miao
+  phonemes:
+  - m
+  - iA0
+  - O0
+- grapheme: mie
+  phonemes:
+  - m
+  - ie
+- grapheme: min
+  phonemes:
+  - m
+  - i
+  - N0
+- grapheme: ming
+  phonemes:
+  - m
+  - i
+  - ng0
+- grapheme: miong
+  phonemes:
+  - m
+  - iO0
+  - ng0
+- grapheme: miu
+  phonemes:
+  - m
+  - io0
+  - U0
+- grapheme: mo
+  phonemes:
+  - m
+  - o
+- grapheme: mong
+  phonemes:
+  - m
+  - oo0
+  - ng0
+- grapheme: mou
+  phonemes:
+  - m
+  - o0
+  - U0
+- grapheme: mu
+  phonemes:
+  - m
+  - u
+- grapheme: mua
+  phonemes:
+  - m
+  - ua
+- grapheme: muai
+  phonemes:
+  - m
+  - ua0
+  - I0
+- grapheme: muan
+  phonemes:
+  - m
+  - ua0
+  - N0
+- grapheme: muang
+  phonemes:
+  - m
+  - uA0
+  - ng0
+- grapheme: mui
+  phonemes:
+  - m
+  - uE0
+  - I0
+- grapheme: mun
+  phonemes:
+  - m
+  - ue0
+  - N0
+- grapheme: mv
+  phonemes:
+  - m
+  - v
+- grapheme: mve
+  phonemes:
+  - m
+  - ve
+- grapheme: na
+  phonemes:
+  - n
+  - a
+- grapheme: nai
+  phonemes:
+  - n
+  - a0
+  - I0
+- grapheme: nan
+  phonemes:
+  - n
+  - a0
+  - N0
+- grapheme: nang
+  phonemes:
+  - n
+  - A0
+  - ng0
+- grapheme: nao
+  phonemes:
+  - n
+  - A0
+  - O0
+- grapheme: ne
+  phonemes:
+  - n
+  - e
+- grapheme: nei
+  phonemes:
+  - n
+  - E0
+  - I0
+- grapheme: nen
+  phonemes:
+  - n
+  - e0
+  - N0
+- grapheme: neng
+  phonemes:
+  - n
+  - e0
+  - ng0
+- grapheme: ner
+  phonemes:
+  - n
+  - er
+- grapheme: ni
+  phonemes:
+  - n
+  - i
+- grapheme: nia
+  phonemes:
+  - n
+  - ia
+- grapheme: nian
+  phonemes:
+  - n
+  - iE0
+  - N0
+- grapheme: niang
+  phonemes:
+  - n
+  - iA0
+  - ng0
+- grapheme: niao
+  phonemes:
+  - n
+  - iA0
+  - O0
+- grapheme: nie
+  phonemes:
+  - n
+  - ie
+- grapheme: nin
+  phonemes:
+  - n
+  - i
+  - N0
+- grapheme: ning
+  phonemes:
+  - n
+  - i
+  - ng0
+- grapheme: niong
+  phonemes:
+  - n
+  - iO0
+  - ng0
+- grapheme: niu
+  phonemes:
+  - n
+  - io0
+  - U0
+- grapheme: nong
+  phonemes:
+  - n
+  - oo0
+  - ng0
+- grapheme: nou
+  phonemes:
+  - n
+  - o0
+  - U0
+- grapheme: nu
+  phonemes:
+  - n
+  - u
+- grapheme: nua
+  phonemes:
+  - n
+  - ua
+- grapheme: nuai
+  phonemes:
+  - n
+  - ua0
+  - I0
+- grapheme: nuan
+  phonemes:
+  - n
+  - ua0
+  - N0
+- grapheme: nuang
+  phonemes:
+  - n
+  - uA0
+  - ng0
+- grapheme: nui
+  phonemes:
+  - n
+  - uE0
+  - I0
+- grapheme: nun
+  phonemes:
+  - n
+  - ue0
+  - N0
+- grapheme: nuo
+  phonemes:
+  - n
+  - uo
+- grapheme: nv
+  phonemes:
+  - n
+  - v
+- grapheme: nve
+  phonemes:
+  - n
+  - ve
+- grapheme: o
+  phonemes:
+  - o
+- grapheme: ong
+  phonemes:
+  - ong
+- grapheme: ou
+  phonemes:
+  - ou
+- grapheme: pa
+  phonemes:
+  - p
+  - a
+- grapheme: pai
+  phonemes:
+  - p
+  - a0
+  - I0
+- grapheme: pan
+  phonemes:
+  - p
+  - a0
+  - N0
+- grapheme: pang
+  phonemes:
+  - p
+  - A0
+  - ng0
+- grapheme: pao
+  phonemes:
+  - p
+  - A0
+  - O0
+- grapheme: pe
+  phonemes:
+  - p
+  - e
+- grapheme: pei
+  phonemes:
+  - p
+  - E0
+  - I0
+- grapheme: pen
+  phonemes:
+  - p
+  - e0
+  - N0
+- grapheme: peng
+  phonemes:
+  - p
+  - e0
+  - ng0
+- grapheme: per
+  phonemes:
+  - p
+  - er
+- grapheme: pi
+  phonemes:
+  - p
+  - i
+- grapheme: pia
+  phonemes:
+  - p
+  - ia
+- grapheme: pian
+  phonemes:
+  - p
+  - iE0
+  - N0
+- grapheme: piang
+  phonemes:
+  - p
+  - iA0
+  - ng0
+- grapheme: piao
+  phonemes:
+  - p
+  - iA0
+  - O0
+- grapheme: pie
+  phonemes:
+  - p
+  - ie
+- grapheme: pin
+  phonemes:
+  - p
+  - i
+  - N0
+- grapheme: ping
+  phonemes:
+  - p
+  - i
+  - ng0
+- grapheme: piong
+  phonemes:
+  - p
+  - iO0
+  - ng0
+- grapheme: piu
+  phonemes:
+  - p
+  - io0
+  - U0
+- grapheme: po
+  phonemes:
+  - p
+  - o
+- grapheme: pong
+  phonemes:
+  - p
+  - oo0
+  - ng0
+- grapheme: pou
+  phonemes:
+  - p
+  - o0
+  - U0
+- grapheme: pu
+  phonemes:
+  - p
+  - u
+- grapheme: pua
+  phonemes:
+  - p
+  - ua
+- grapheme: puai
+  phonemes:
+  - p
+  - ua0
+  - I0
+- grapheme: puan
+  phonemes:
+  - p
+  - ua0
+  - N0
+- grapheme: puang
+  phonemes:
+  - p
+  - uA0
+  - ng0
+- grapheme: pui
+  phonemes:
+  - p
+  - uE0
+  - I0
+- grapheme: pun
+  phonemes:
+  - p
+  - ue0
+  - N0
+- grapheme: pv
+  phonemes:
+  - p
+  - v
+- grapheme: pve
+  phonemes:
+  - p
+  - ve
+- grapheme: qi
+  phonemes:
+  - q
+  - i
+- grapheme: qia
+  phonemes:
+  - q
+  - ia
+- grapheme: qian
+  phonemes:
+  - q
+  - iE0
+  - N0
+- grapheme: qiang
+  phonemes:
+  - q
+  - iA0
+  - ng0
+- grapheme: qiao
+  phonemes:
+  - q
+  - iA0
+  - O0
+- grapheme: qie
+  phonemes:
+  - q
+  - ie
+- grapheme: qin
+  phonemes:
+  - q
+  - i
+  - N0
+- grapheme: qing
+  phonemes:
+  - q
+  - i
+  - ng0
+- grapheme: qiong
+  phonemes:
+  - q
+  - iO0
+  - ng0
+- grapheme: qiu
+  phonemes:
+  - q
+  - io0
+  - U0
+- grapheme: qu
+  phonemes:
+  - q
+  - v
+- grapheme: quan
+  phonemes:
+  - q
+  - vE0
+  - N0
+- grapheme: que
+  phonemes:
+  - q
+  - ve
+- grapheme: qun
+  phonemes:
+  - q
+  - v0
+  - N0
+- grapheme: ra
+  phonemes:
+  - r
+  - a
+- grapheme: rai
+  phonemes:
+  - r
+  - a0
+  - I0
+- grapheme: ran
+  phonemes:
+  - r
+  - a0
+  - N0
+- grapheme: rang
+  phonemes:
+  - r
+  - A0
+  - ng0
+- grapheme: rao
+  phonemes:
+  - r
+  - A0
+  - O0
+- grapheme: re
+  phonemes:
+  - r
+  - e
+- grapheme: rei
+  phonemes:
+  - r
+  - E0
+  - I0
+- grapheme: ren
+  phonemes:
+  - r
+  - e0
+  - N0
+- grapheme: reng
+  phonemes:
+  - r
+  - e0
+  - ng0
+- grapheme: rer
+  phonemes:
+  - r
+  - er
+- grapheme: ri
+  phonemes:
+  - r
+  - ir
+- grapheme: rong
+  phonemes:
+  - r
+  - oo0
+  - ng0
+- grapheme: rou
+  phonemes:
+  - r
+  - o0
+  - U0
+- grapheme: ru
+  phonemes:
+  - r
+  - u
+- grapheme: rua
+  phonemes:
+  - r
+  - ua
+- grapheme: ruai
+  phonemes:
+  - r
+  - ua0
+  - I0
+- grapheme: ruan
+  phonemes:
+  - r
+  - ua0
+  - N0
+- grapheme: ruang
+  phonemes:
+  - r
+  - uA0
+  - ng0
+- grapheme: rui
+  phonemes:
+  - r
+  - uE0
+  - I0
+- grapheme: run
+  phonemes:
+  - r
+  - ue0
+  - N0
+- grapheme: ruo
+  phonemes:
+  - r
+  - uo
+- grapheme: rv
+  phonemes:
+  - r
+  - v
+- grapheme: ryi
+  phonemes:
+  - r
+  - i
+- grapheme: sa
+  phonemes:
+  - s
+  - a
+- grapheme: sai
+  phonemes:
+  - s
+  - a0
+  - I0
+- grapheme: san
+  phonemes:
+  - s
+  - a0
+  - N0
+- grapheme: sang
+  phonemes:
+  - s
+  - A0
+  - ng0
+- grapheme: sao
+  phonemes:
+  - s
+  - A0
+  - O0
+- grapheme: se
+  phonemes:
+  - s
+  - e
+- grapheme: sei
+  phonemes:
+  - s
+  - E0
+  - I0
+- grapheme: sen
+  phonemes:
+  - s
+  - e0
+  - N0
+- grapheme: seng
+  phonemes:
+  - s
+  - e0
+  - ng0
+- grapheme: ser
+  phonemes:
+  - s
+  - er
+- grapheme: sha
+  phonemes:
+  - sh
+  - a
+- grapheme: shai
+  phonemes:
+  - sh
+  - a0
+  - I0
+- grapheme: shan
+  phonemes:
+  - sh
+  - a0
+  - N0
+- grapheme: shang
+  phonemes:
+  - sh
+  - A0
+  - ng0
+- grapheme: shao
+  phonemes:
+  - sh
+  - A0
+  - O0
+- grapheme: she
+  phonemes:
+  - sh
+  - e
+- grapheme: shei
+  phonemes:
+  - sh
+  - E0
+  - I0
+- grapheme: shen
+  phonemes:
+  - sh
+  - e0
+  - N0
+- grapheme: sheng
+  phonemes:
+  - sh
+  - e0
+  - ng0
+- grapheme: sher
+  phonemes:
+  - sh
+  - er
+- grapheme: shi
+  phonemes:
+  - sh
+  - ir
+- grapheme: shong
+  phonemes:
+  - sh
+  - oo0
+  - ng0
+- grapheme: shou
+  phonemes:
+  - sh
+  - o0
+  - U0
+- grapheme: shu
+  phonemes:
+  - sh
+  - u
+- grapheme: shua
+  phonemes:
+  - sh
+  - ua
+- grapheme: shuai
+  phonemes:
+  - sh
+  - ua0
+  - I0
+- grapheme: shuan
+  phonemes:
+  - sh
+  - ua0
+  - N0
+- grapheme: shuang
+  phonemes:
+  - sh
+  - uA0
+  - ng0
+- grapheme: shui
+  phonemes:
+  - sh
+  - uE0
+  - I0
+- grapheme: shun
+  phonemes:
+  - sh
+  - ue0
+  - N0
+- grapheme: shuo
+  phonemes:
+  - sh
+  - uo
+- grapheme: shv
+  phonemes:
+  - sh
+  - v
+- grapheme: shyi
+  phonemes:
+  - sh
+  - i
+- grapheme: si
+  phonemes:
+  - s
+  - i0
+- grapheme: song
+  phonemes:
+  - s
+  - oo0
+  - ng0
+- grapheme: sou
+  phonemes:
+  - s
+  - o0
+  - U0
+- grapheme: su
+  phonemes:
+  - s
+  - u
+- grapheme: sua
+  phonemes:
+  - s
+  - ua
+- grapheme: suai
+  phonemes:
+  - s
+  - ua0
+  - I0
+- grapheme: suan
+  phonemes:
+  - s
+  - ua0
+  - N0
+- grapheme: suang
+  phonemes:
+  - s
+  - uA0
+  - ng0
+- grapheme: sui
+  phonemes:
+  - s
+  - uE0
+  - I0
+- grapheme: sun
+  phonemes:
+  - s
+  - ue0
+  - N0
+- grapheme: suo
+  phonemes:
+  - s
+  - uo
+- grapheme: sv
+  phonemes:
+  - s
+  - v
+- grapheme: syi
+  phonemes:
+  - s
+  - i
+- grapheme: ta
+  phonemes:
+  - t
+  - a
+- grapheme: tai
+  phonemes:
+  - t
+  - a0
+  - I0
+- grapheme: tan
+  phonemes:
+  - t
+  - a0
+  - N0
+- grapheme: tang
+  phonemes:
+  - t
+  - A0
+  - ng0
+- grapheme: tao
+  phonemes:
+  - t
+  - A0
+  - O0
+- grapheme: te
+  phonemes:
+  - t
+  - e
+- grapheme: tei
+  phonemes:
+  - t
+  - E0
+  - I0
+- grapheme: ten
+  phonemes:
+  - t
+  - e0
+  - N0
+- grapheme: teng
+  phonemes:
+  - t
+  - e0
+  - ng0
+- grapheme: ter
+  phonemes:
+  - t
+  - er
+- grapheme: ti
+  phonemes:
+  - t
+  - i
+- grapheme: tia
+  phonemes:
+  - t
+  - ia
+- grapheme: tian
+  phonemes:
+  - t
+  - iE0
+  - N0
+- grapheme: tiang
+  phonemes:
+  - t
+  - iA0
+  - ng0
+- grapheme: tiao
+  phonemes:
+  - t
+  - iA0
+  - O0
+- grapheme: tie
+  phonemes:
+  - t
+  - ie
+- grapheme: tin
+  phonemes:
+  - t
+  - i
+  - N0
+- grapheme: ting
+  phonemes:
+  - t
+  - i
+  - ng0
+- grapheme: tiong
+  phonemes:
+  - t
+  - iO0
+  - ng0
+- grapheme: tong
+  phonemes:
+  - t
+  - oo0
+  - ng0
+- grapheme: tou
+  phonemes:
+  - t
+  - o0
+  - U0
+- grapheme: tu
+  phonemes:
+  - t
+  - u
+- grapheme: tua
+  phonemes:
+  - t
+  - ua
+- grapheme: tuai
+  phonemes:
+  - t
+  - ua0
+  - I0
+- grapheme: tuan
+  phonemes:
+  - t
+  - ua0
+  - N0
+- grapheme: tuang
+  phonemes:
+  - t
+  - uA0
+  - ng0
+- grapheme: tui
+  phonemes:
+  - t
+  - uE0
+  - I0
+- grapheme: tun
+  phonemes:
+  - t
+  - ue0
+  - N0
+- grapheme: tuo
+  phonemes:
+  - t
+  - uo
+- grapheme: tv
+  phonemes:
+  - t
+  - v
+- grapheme: tve
+  phonemes:
+  - t
+  - ve
+- grapheme: wa
+  phonemes:
+  - w
+  - a
+- grapheme: wai
+  phonemes:
+  - w
+  - a0
+  - I0
+- grapheme: wan
+  phonemes:
+  - w
+  - a0
+  - N0
+- grapheme: wang
+  phonemes:
+  - w
+  - A0
+  - ng0
+- grapheme: wao
+  phonemes:
+  - w
+  - A0
+  - O0
+- grapheme: we
+  phonemes:
+  - w
+  - e
+- grapheme: wei
+  phonemes:
+  - w
+  - E0
+  - I0
+- grapheme: wen
+  phonemes:
+  - w
+  - e0
+  - N0
+- grapheme: weng
+  phonemes:
+  - w
+  - e0
+  - ng0
+- grapheme: wer
+  phonemes:
+  - w
+  - er
+- grapheme: wi
+  phonemes:
+  - w
+  - i
+- grapheme: wo
+  phonemes:
+  - w
+  - o
+- grapheme: wong
+  phonemes:
+  - w
+  - oo0
+  - ng0
+- grapheme: wou
+  phonemes:
+  - w
+  - o0
+  - U0
+- grapheme: wu
+  phonemes:
+  - w
+  - u
+- grapheme: xi
+  phonemes:
+  - x
+  - i
+- grapheme: xia
+  phonemes:
+  - x
+  - ia
+- grapheme: xian
+  phonemes:
+  - x
+  - iE0
+  - N0
+- grapheme: xiang
+  phonemes:
+  - x
+  - iA0
+  - ng0
+- grapheme: xiao
+  phonemes:
+  - x
+  - iA0
+  - O0
+- grapheme: xie
+  phonemes:
+  - x
+  - ie
+- grapheme: xin
+  phonemes:
+  - x
+  - i
+  - N0
+- grapheme: xing
+  phonemes:
+  - x
+  - i
+  - ng0
+- grapheme: xiong
+  phonemes:
+  - x
+  - iO0
+  - ng0
+- grapheme: xiu
+  phonemes:
+  - x
+  - io0
+  - U0
+- grapheme: xu
+  phonemes:
+  - x
+  - v
+- grapheme: xuan
+  phonemes:
+  - x
+  - vE0
+  - N0
+- grapheme: xue
+  phonemes:
+  - x
+  - ve
+- grapheme: xun
+  phonemes:
+  - x
+  - v0
+  - N0
+- grapheme: ya
+  phonemes:
+  - y
+  - a
+- grapheme: yai
+  phonemes:
+  - y
+  - a0
+  - I0
+- grapheme: yan
+  phonemes:
+  - y
+  - iE0
+  - N0
+- grapheme: yang
+  phonemes:
+  - y
+  - A0
+  - ng0
+- grapheme: yao
+  phonemes:
+  - y
+  - A0
+  - O0
+- grapheme: ye
+  phonemes:
+  - y
+  - E
+- grapheme: yei
+  phonemes:
+  - y
+  - E0
+  - I0
+- grapheme: yi
+  phonemes:
+  - y
+  - i
+- grapheme: yin
+  phonemes:
+  - y
+  - i
+  - N0
+- grapheme: ying
+  phonemes:
+  - y
+  - i
+  - ng0
+- grapheme: yo
+  phonemes:
+  - y
+  - o
+- grapheme: yong
+  phonemes:
+  - y
+  - oo0
+  - ng0
+- grapheme: you
+  phonemes:
+  - y
+  - o0
+  - U0
+- grapheme: yu
+  phonemes:
+  - y
+  - v
+- grapheme: yuan
+  phonemes:
+  - y
+  - vE0
+  - N0
+- grapheme: yue
+  phonemes:
+  - y
+  - ve
+- grapheme: yun
+  phonemes:
+  - y
+  - v0
+  - N0
+- grapheme: ywu
+  phonemes:
+  - y
+  - u
+- grapheme: za
+  phonemes:
+  - z
+  - a
+- grapheme: zai
+  phonemes:
+  - z
+  - a0
+  - I0
+- grapheme: zan
+  phonemes:
+  - z
+  - a0
+  - N0
+- grapheme: zang
+  phonemes:
+  - z
+  - A0
+  - ng0
+- grapheme: zao
+  phonemes:
+  - z
+  - A0
+  - O0
+- grapheme: ze
+  phonemes:
+  - z
+  - e
+- grapheme: zei
+  phonemes:
+  - z
+  - E0
+  - I0
+- grapheme: zen
+  phonemes:
+  - z
+  - e0
+  - N0
+- grapheme: zeng
+  phonemes:
+  - z
+  - e0
+  - ng0
+- grapheme: zer
+  phonemes:
+  - z
+  - er
+- grapheme: zha
+  phonemes:
+  - zh
+  - a
+- grapheme: zhai
+  phonemes:
+  - zh
+  - a0
+  - I0
+- grapheme: zhan
+  phonemes:
+  - zh
+  - a0
+  - N0
+- grapheme: zhang
+  phonemes:
+  - zh
+  - A0
+  - ng0
+- grapheme: zhao
+  phonemes:
+  - zh
+  - A0
+  - O0
+- grapheme: zhe
+  phonemes:
+  - zh
+  - e
+- grapheme: zhei
+  phonemes:
+  - zh
+  - E0
+  - I0
+- grapheme: zhen
+  phonemes:
+  - zh
+  - e0
+  - N0
+- grapheme: zheng
+  phonemes:
+  - zh
+  - e0
+  - ng0
+- grapheme: zher
+  phonemes:
+  - zh
+  - er
+- grapheme: zhi
+  phonemes:
+  - zh
+  - ir
+- grapheme: zhong
+  phonemes:
+  - zh
+  - oo0
+  - ng0
+- grapheme: zhou
+  phonemes:
+  - zh
+  - o0
+  - U0
+- grapheme: zhu
+  phonemes:
+  - zh
+  - u
+- grapheme: zhua
+  phonemes:
+  - zh
+  - ua
+- grapheme: zhuai
+  phonemes:
+  - zh
+  - ua0
+  - I0
+- grapheme: zhuan
+  phonemes:
+  - zh
+  - ua0
+  - N0
+- grapheme: zhuang
+  phonemes:
+  - zh
+  - uA0
+  - ng0
+- grapheme: zhui
+  phonemes:
+  - zh
+  - uE0
+  - I0
+- grapheme: zhun
+  phonemes:
+  - zh
+  - ue0
+  - N0
+- grapheme: zhuo
+  phonemes:
+  - zh
+  - uo
+- grapheme: zhv
+  phonemes:
+  - zh
+  - v
+- grapheme: zhyi
+  phonemes:
+  - zh
+  - i
+- grapheme: zi
+  phonemes:
+  - z
+  - i0
+- grapheme: zong
+  phonemes:
+  - z
+  - oo0
+  - ng0
+- grapheme: zou
+  phonemes:
+  - z
+  - o0
+  - U0
+- grapheme: zu
+  phonemes:
+  - z
+  - u
+- grapheme: zua
+  phonemes:
+  - z
+  - ua
+- grapheme: zuai
+  phonemes:
+  - z
+  - ua0
+  - I0
+- grapheme: zuan
+  phonemes:
+  - z
+  - ua0
+  - N0
+- grapheme: zuang
+  phonemes:
+  - z
+  - uA0
+  - ng0
+- grapheme: zui
+  phonemes:
+  - z
+  - uE0
+  - I0
+- grapheme: zun
+  phonemes:
+  - z
+  - ue0
+  - N0
+- grapheme: zuo
+  phonemes:
+  - z
+  - uo
+- grapheme: zv
+  phonemes:
+  - z
+  - v
+- grapheme: zyi
+  phonemes:
+  - z
+  - i
+- grapheme: a&2
+  phonemes:
+  - a
+- grapheme: ai&2
+  phonemes:
+  - ai
+- grapheme: an&2
+  phonemes:
+  - an
+- grapheme: ang&2
+  phonemes:
+  - ang
+- grapheme: ao&2
+  phonemes:
+  - ao
+- grapheme: ba&2
+  phonemes:
+  - b
+  - a
+- grapheme: bai&2
+  phonemes:
+  - b
+  - ai
+- grapheme: ban&2
+  phonemes:
+  - b
+  - an
+- grapheme: bang&2
+  phonemes:
+  - b
+  - ang
+- grapheme: bao&2
+  phonemes:
+  - b
+  - ao
+- grapheme: be&2
+  phonemes:
+  - b
+  - e
+- grapheme: bei&2
+  phonemes:
+  - b
+  - ei
+- grapheme: ben&2
+  phonemes:
+  - b
+  - en
+- grapheme: beng&2
+  phonemes:
+  - b
+  - eng
+- grapheme: ber&2
+  phonemes:
+  - b
+  - er
+- grapheme: bi&2
+  phonemes:
+  - b
+  - i
+- grapheme: bia&2
+  phonemes:
+  - b
+  - ia
+- grapheme: bian&2
+  phonemes:
+  - b
+  - ian
+- grapheme: biang&2
+  phonemes:
+  - b
+  - iang
+- grapheme: biao&2
+  phonemes:
+  - b
+  - iao
+- grapheme: bie&2
+  phonemes:
+  - b
+  - ie
+- grapheme: bin&2
+  phonemes:
+  - b
+  - in
+- grapheme: bing&2
+  phonemes:
+  - b
+  - ing
+- grapheme: biong&2
+  phonemes:
+  - b
+  - iong
+- grapheme: biu&2
+  phonemes:
+  - b
+  - iu
+- grapheme: bo&2
+  phonemes:
+  - b
+  - o
+- grapheme: bong&2
+  phonemes:
+  - b
+  - ong
+- grapheme: bou&2
+  phonemes:
+  - b
+  - ou
+- grapheme: bu&2
+  phonemes:
+  - b
+  - u
+- grapheme: bua&2
+  phonemes:
+  - b
+  - ua
+- grapheme: buai&2
+  phonemes:
+  - b
+  - uai
+- grapheme: buan&2
+  phonemes:
+  - b
+  - uan
+- grapheme: buang&2
+  phonemes:
+  - b
+  - uang
+- grapheme: bui&2
+  phonemes:
+  - b
+  - ui
+- grapheme: bun&2
+  phonemes:
+  - b
+  - un
+- grapheme: bv&2
+  phonemes:
+  - b
+  - v
+- grapheme: bve&2
+  phonemes:
+  - b
+  - ve
+- grapheme: ca&2
+  phonemes:
+  - c
+  - a
+- grapheme: cai&2
+  phonemes:
+  - c
+  - ai
+- grapheme: can&2
+  phonemes:
+  - c
+  - an
+- grapheme: cang&2
+  phonemes:
+  - c
+  - ang
+- grapheme: cao&2
+  phonemes:
+  - c
+  - ao
+- grapheme: ce&2
+  phonemes:
+  - c
+  - e
+- grapheme: cei&2
+  phonemes:
+  - c
+  - ei
+- grapheme: cen&2
+  phonemes:
+  - c
+  - en
+- grapheme: ceng&2
+  phonemes:
+  - c
+  - eng
+- grapheme: cer&2
+  phonemes:
+  - c
+  - er
+- grapheme: cha&2
+  phonemes:
+  - ch
+  - a
+- grapheme: chai&2
+  phonemes:
+  - ch
+  - ai
+- grapheme: chan&2
+  phonemes:
+  - ch
+  - an
+- grapheme: chang&2
+  phonemes:
+  - ch
+  - ang
+- grapheme: chao&2
+  phonemes:
+  - ch
+  - ao
+- grapheme: che&2
+  phonemes:
+  - ch
+  - e
+- grapheme: chei&2
+  phonemes:
+  - ch
+  - ei
+- grapheme: chen&2
+  phonemes:
+  - ch
+  - en
+- grapheme: cheng&2
+  phonemes:
+  - ch
+  - eng
+- grapheme: cher&2
+  phonemes:
+  - ch
+  - er
+- grapheme: chi&2
+  phonemes:
+  - ch
+  - ir
+- grapheme: chong&2
+  phonemes:
+  - ch
+  - ong
+- grapheme: chou&2
+  phonemes:
+  - ch
+  - ou
+- grapheme: chu&2
+  phonemes:
+  - ch
+  - u
+- grapheme: chua&2
+  phonemes:
+  - ch
+  - ua
+- grapheme: chuai&2
+  phonemes:
+  - ch
+  - uai
+- grapheme: chuan&2
+  phonemes:
+  - ch
+  - uan
+- grapheme: chuang&2
+  phonemes:
+  - ch
+  - uang
+- grapheme: chui&2
+  phonemes:
+  - ch
+  - ui
+- grapheme: chun&2
+  phonemes:
+  - ch
+  - un
+- grapheme: chuo&2
+  phonemes:
+  - ch
+  - uo
+- grapheme: chv&2
+  phonemes:
+  - ch
+  - v
+- grapheme: chyi&2
+  phonemes:
+  - ch
+  - i
+- grapheme: ci&2
+  phonemes:
+  - c
+  - i0
+- grapheme: cong&2
+  phonemes:
+  - c
+  - ong
+- grapheme: cou&2
+  phonemes:
+  - c
+  - ou
+- grapheme: cu&2
+  phonemes:
+  - c
+  - u
+- grapheme: cua&2
+  phonemes:
+  - c
+  - ua
+- grapheme: cuai&2
+  phonemes:
+  - c
+  - uai
+- grapheme: cuan&2
+  phonemes:
+  - c
+  - uan
+- grapheme: cuang&2
+  phonemes:
+  - c
+  - uang
+- grapheme: cui&2
+  phonemes:
+  - c
+  - ui
+- grapheme: cun&2
+  phonemes:
+  - c
+  - un
+- grapheme: cuo&2
+  phonemes:
+  - c
+  - uo
+- grapheme: cv&2
+  phonemes:
+  - c
+  - v
+- grapheme: cyi&2
+  phonemes:
+  - c
+  - i
+- grapheme: da&2
+  phonemes:
+  - d
+  - a
+- grapheme: dai&2
+  phonemes:
+  - d
+  - ai
+- grapheme: dan&2
+  phonemes:
+  - d
+  - an
+- grapheme: dang&2
+  phonemes:
+  - d
+  - ang
+- grapheme: dao&2
+  phonemes:
+  - d
+  - ao
+- grapheme: de&2
+  phonemes:
+  - d
+  - e
+- grapheme: dei&2
+  phonemes:
+  - d
+  - ei
+- grapheme: den&2
+  phonemes:
+  - d
+  - en
+- grapheme: deng&2
+  phonemes:
+  - d
+  - eng
+- grapheme: der&2
+  phonemes:
+  - d
+  - er
+- grapheme: di&2
+  phonemes:
+  - d
+  - i
+- grapheme: dia&2
+  phonemes:
+  - d
+  - ia
+- grapheme: dian&2
+  phonemes:
+  - d
+  - ian
+- grapheme: diang&2
+  phonemes:
+  - d
+  - iang
+- grapheme: diao&2
+  phonemes:
+  - d
+  - iao
+- grapheme: die&2
+  phonemes:
+  - d
+  - ie
+- grapheme: din&2
+  phonemes:
+  - d
+  - in
+- grapheme: ding&2
+  phonemes:
+  - d
+  - ing
+- grapheme: diong&2
+  phonemes:
+  - d
+  - iong
+- grapheme: diu&2
+  phonemes:
+  - d
+  - iu
+- grapheme: dong&2
+  phonemes:
+  - d
+  - ong
+- grapheme: dou&2
+  phonemes:
+  - d
+  - ou
+- grapheme: du&2
+  phonemes:
+  - d
+  - u
+- grapheme: dua&2
+  phonemes:
+  - d
+  - ua
+- grapheme: duai&2
+  phonemes:
+  - d
+  - uai
+- grapheme: duan&2
+  phonemes:
+  - d
+  - uan
+- grapheme: duang&2
+  phonemes:
+  - d
+  - uang
+- grapheme: dui&2
+  phonemes:
+  - d
+  - ui
+- grapheme: dun&2
+  phonemes:
+  - d
+  - un
+- grapheme: duo&2
+  phonemes:
+  - d
+  - uo
+- grapheme: dv&2
+  phonemes:
+  - d
+  - v
+- grapheme: dve&2
+  phonemes:
+  - d
+  - ve
+- grapheme: e&2
+  phonemes:
+  - e
+- grapheme: ei&2
+  phonemes:
+  - ei
+- grapheme: en&2
+  phonemes:
+  - en
+- grapheme: eng&2
+  phonemes:
+  - eng
+- grapheme: er&2
+  phonemes:
+  - er
+- grapheme: fa&2
+  phonemes:
+  - f
+  - a
+- grapheme: fai&2
+  phonemes:
+  - f
+  - ai
+- grapheme: fan&2
+  phonemes:
+  - f
+  - an
+- grapheme: fang&2
+  phonemes:
+  - f
+  - ang
+- grapheme: fao&2
+  phonemes:
+  - f
+  - ao
+- grapheme: fe&2
+  phonemes:
+  - f
+  - e
+- grapheme: fei&2
+  phonemes:
+  - f
+  - ei
+- grapheme: fen&2
+  phonemes:
+  - f
+  - en
+- grapheme: feng&2
+  phonemes:
+  - f
+  - eng
+- grapheme: fer&2
+  phonemes:
+  - f
+  - er
+- grapheme: fi&2
+  phonemes:
+  - f
+  - i
+- grapheme: fia&2
+  phonemes:
+  - f
+  - ia
+- grapheme: fian&2
+  phonemes:
+  - f
+  - ian
+- grapheme: fiang&2
+  phonemes:
+  - f
+  - iang
+- grapheme: fiao&2
+  phonemes:
+  - f
+  - iao
+- grapheme: fie&2
+  phonemes:
+  - f
+  - ie
+- grapheme: fin&2
+  phonemes:
+  - f
+  - in
+- grapheme: fing&2
+  phonemes:
+  - f
+  - ing
+- grapheme: fiong&2
+  phonemes:
+  - f
+  - iong
+- grapheme: fiu&2
+  phonemes:
+  - f
+  - iu
+- grapheme: fo&2
+  phonemes:
+  - f
+  - o
+- grapheme: fong&2
+  phonemes:
+  - f
+  - ong
+- grapheme: fou&2
+  phonemes:
+  - f
+  - ou
+- grapheme: fu&2
+  phonemes:
+  - f
+  - u
+- grapheme: fua&2
+  phonemes:
+  - f
+  - ua
+- grapheme: fuai&2
+  phonemes:
+  - f
+  - uai
+- grapheme: fuan&2
+  phonemes:
+  - f
+  - uan
+- grapheme: fuang&2
+  phonemes:
+  - f
+  - uang
+- grapheme: fui&2
+  phonemes:
+  - f
+  - ui
+- grapheme: fun&2
+  phonemes:
+  - f
+  - un
+- grapheme: fv&2
+  phonemes:
+  - f
+  - v
+- grapheme: fve&2
+  phonemes:
+  - f
+  - ve
+- grapheme: ga&2
+  phonemes:
+  - g
+  - a
+- grapheme: gai&2
+  phonemes:
+  - g
+  - ai
+- grapheme: gan&2
+  phonemes:
+  - g
+  - an
+- grapheme: gang&2
+  phonemes:
+  - g
+  - ang
+- grapheme: gao&2
+  phonemes:
+  - g
+  - ao
+- grapheme: ge&2
+  phonemes:
+  - g
+  - e
+- grapheme: gei&2
+  phonemes:
+  - g
+  - ei
+- grapheme: gen&2
+  phonemes:
+  - g
+  - en
+- grapheme: geng&2
+  phonemes:
+  - g
+  - eng
+- grapheme: ger&2
+  phonemes:
+  - g
+  - er
+- grapheme: gi&2
+  phonemes:
+  - g
+  - i
+- grapheme: gia&2
+  phonemes:
+  - g
+  - ia
+- grapheme: gian&2
+  phonemes:
+  - g
+  - ian
+- grapheme: giang&2
+  phonemes:
+  - g
+  - iang
+- grapheme: giao&2
+  phonemes:
+  - g
+  - iao
+- grapheme: gie&2
+  phonemes:
+  - g
+  - ie
+- grapheme: gin&2
+  phonemes:
+  - g
+  - in
+- grapheme: ging&2
+  phonemes:
+  - g
+  - ing
+- grapheme: giong&2
+  phonemes:
+  - g
+  - iong
+- grapheme: giu&2
+  phonemes:
+  - g
+  - iu
+- grapheme: gong&2
+  phonemes:
+  - g
+  - ong
+- grapheme: gou&2
+  phonemes:
+  - g
+  - ou
+- grapheme: gu&2
+  phonemes:
+  - g
+  - u
+- grapheme: gua&2
+  phonemes:
+  - g
+  - ua
+- grapheme: guai&2
+  phonemes:
+  - g
+  - uai
+- grapheme: guan&2
+  phonemes:
+  - g
+  - uan
+- grapheme: guang&2
+  phonemes:
+  - g
+  - uang
+- grapheme: gui&2
+  phonemes:
+  - g
+  - ui
+- grapheme: gun&2
+  phonemes:
+  - g
+  - un
+- grapheme: guo&2
+  phonemes:
+  - g
+  - uo
+- grapheme: gv&2
+  phonemes:
+  - g
+  - v
+- grapheme: gve&2
+  phonemes:
+  - g
+  - ve
+- grapheme: ha&2
+  phonemes:
+  - h
+  - a
+- grapheme: hai&2
+  phonemes:
+  - h
+  - ai
+- grapheme: han&2
+  phonemes:
+  - h
+  - an
+- grapheme: hang&2
+  phonemes:
+  - h
+  - ang
+- grapheme: hao&2
+  phonemes:
+  - h
+  - ao
+- grapheme: he&2
+  phonemes:
+  - h
+  - e
+- grapheme: hei&2
+  phonemes:
+  - h
+  - ei
+- grapheme: hen&2
+  phonemes:
+  - h
+  - en
+- grapheme: heng&2
+  phonemes:
+  - h
+  - eng
+- grapheme: her&2
+  phonemes:
+  - h
+  - er
+- grapheme: hi&2
+  phonemes:
+  - h
+  - i
+- grapheme: hia&2
+  phonemes:
+  - h
+  - ia
+- grapheme: hian&2
+  phonemes:
+  - h
+  - ian
+- grapheme: hiang&2
+  phonemes:
+  - h
+  - iang
+- grapheme: hiao&2
+  phonemes:
+  - h
+  - iao
+- grapheme: hie&2
+  phonemes:
+  - h
+  - ie
+- grapheme: hin&2
+  phonemes:
+  - h
+  - in
+- grapheme: hing&2
+  phonemes:
+  - h
+  - ing
+- grapheme: hiong&2
+  phonemes:
+  - h
+  - iong
+- grapheme: hiu&2
+  phonemes:
+  - h
+  - iu
+- grapheme: hong&2
+  phonemes:
+  - h
+  - ong
+- grapheme: hou&2
+  phonemes:
+  - h
+  - ou
+- grapheme: hu&2
+  phonemes:
+  - h
+  - u
+- grapheme: hua&2
+  phonemes:
+  - h
+  - ua
+- grapheme: huai&2
+  phonemes:
+  - h
+  - uai
+- grapheme: huan&2
+  phonemes:
+  - h
+  - uan
+- grapheme: huang&2
+  phonemes:
+  - h
+  - uang
+- grapheme: hui&2
+  phonemes:
+  - h
+  - ui
+- grapheme: hun&2
+  phonemes:
+  - h
+  - un
+- grapheme: huo&2
+  phonemes:
+  - h
+  - uo
+- grapheme: hv&2
+  phonemes:
+  - h
+  - v
+- grapheme: hve&2
+  phonemes:
+  - h
+  - ve
+- grapheme: ji&2
+  phonemes:
+  - j
+  - i
+- grapheme: jia&2
+  phonemes:
+  - j
+  - ia
+- grapheme: jian&2
+  phonemes:
+  - j
+  - ian
+- grapheme: jiang&2
+  phonemes:
+  - j
+  - iang
+- grapheme: jiao&2
+  phonemes:
+  - j
+  - iao
+- grapheme: jie&2
+  phonemes:
+  - j
+  - ie
+- grapheme: jin&2
+  phonemes:
+  - j
+  - in
+- grapheme: jing&2
+  phonemes:
+  - j
+  - ing
+- grapheme: jiong&2
+  phonemes:
+  - j
+  - iong
+- grapheme: jiu&2
+  phonemes:
+  - j
+  - iu
+- grapheme: ju&2
+  phonemes:
+  - j
+  - v
+- grapheme: juan&2
+  phonemes:
+  - j
+  - van
+- grapheme: jue&2
+  phonemes:
+  - j
+  - ve
+- grapheme: jun&2
+  phonemes:
+  - j
+  - vn
+- grapheme: ka&2
+  phonemes:
+  - k
+  - a
+- grapheme: kai&2
+  phonemes:
+  - k
+  - ai
+- grapheme: kan&2
+  phonemes:
+  - k
+  - an
+- grapheme: kang&2
+  phonemes:
+  - k
+  - ang
+- grapheme: kao&2
+  phonemes:
+  - k
+  - ao
+- grapheme: ke&2
+  phonemes:
+  - k
+  - e
+- grapheme: kei&2
+  phonemes:
+  - k
+  - ei
+- grapheme: ken&2
+  phonemes:
+  - k
+  - en
+- grapheme: keng&2
+  phonemes:
+  - k
+  - eng
+- grapheme: ker&2
+  phonemes:
+  - k
+  - er
+- grapheme: ki&2
+  phonemes:
+  - k
+  - i
+- grapheme: kia&2
+  phonemes:
+  - k
+  - ia
+- grapheme: kian&2
+  phonemes:
+  - k
+  - ian
+- grapheme: kiang&2
+  phonemes:
+  - k
+  - iang
+- grapheme: kiao&2
+  phonemes:
+  - k
+  - iao
+- grapheme: kie&2
+  phonemes:
+  - k
+  - ie
+- grapheme: kin&2
+  phonemes:
+  - k
+  - in
+- grapheme: king&2
+  phonemes:
+  - k
+  - ing
+- grapheme: kiong&2
+  phonemes:
+  - k
+  - iong
+- grapheme: kiu&2
+  phonemes:
+  - k
+  - iu
+- grapheme: kong&2
+  phonemes:
+  - k
+  - ong
+- grapheme: kou&2
+  phonemes:
+  - k
+  - ou
+- grapheme: ku&2
+  phonemes:
+  - k
+  - u
+- grapheme: kua&2
+  phonemes:
+  - k
+  - ua
+- grapheme: kuai&2
+  phonemes:
+  - k
+  - uai
+- grapheme: kuan&2
+  phonemes:
+  - k
+  - uan
+- grapheme: kuang&2
+  phonemes:
+  - k
+  - uang
+- grapheme: kui&2
+  phonemes:
+  - k
+  - ui
+- grapheme: kun&2
+  phonemes:
+  - k
+  - un
+- grapheme: kuo&2
+  phonemes:
+  - k
+  - uo
+- grapheme: kv&2
+  phonemes:
+  - k
+  - v
+- grapheme: kve&2
+  phonemes:
+  - k
+  - ve
+- grapheme: la&2
+  phonemes:
+  - l
+  - a
+- grapheme: lai&2
+  phonemes:
+  - l
+  - ai
+- grapheme: lan&2
+  phonemes:
+  - l
+  - an
+- grapheme: lang&2
+  phonemes:
+  - l
+  - ang
+- grapheme: lao&2
+  phonemes:
+  - l
+  - ao
+- grapheme: le&2
+  phonemes:
+  - l
+  - e
+- grapheme: lei&2
+  phonemes:
+  - l
+  - ei
+- grapheme: len&2
+  phonemes:
+  - l
+  - en
+- grapheme: leng&2
+  phonemes:
+  - l
+  - eng
+- grapheme: ler&2
+  phonemes:
+  - l
+  - er
+- grapheme: li&2
+  phonemes:
+  - l
+  - i
+- grapheme: lia&2
+  phonemes:
+  - l
+  - ia
+- grapheme: lian&2
+  phonemes:
+  - l
+  - ian
+- grapheme: liang&2
+  phonemes:
+  - l
+  - iang
+- grapheme: liao&2
+  phonemes:
+  - l
+  - iao
+- grapheme: lie&2
+  phonemes:
+  - l
+  - ie
+- grapheme: lin&2
+  phonemes:
+  - l
+  - in
+- grapheme: ling&2
+  phonemes:
+  - l
+  - ing
+- grapheme: liong&2
+  phonemes:
+  - l
+  - iong
+- grapheme: liu&2
+  phonemes:
+  - l
+  - iu
+- grapheme: lo&2
+  phonemes:
+  - l
+  - o
+- grapheme: long&2
+  phonemes:
+  - l
+  - ong
+- grapheme: lou&2
+  phonemes:
+  - l
+  - ou
+- grapheme: lu&2
+  phonemes:
+  - l
+  - u
+- grapheme: lua&2
+  phonemes:
+  - l
+  - ua
+- grapheme: luai&2
+  phonemes:
+  - l
+  - uai
+- grapheme: luan&2
+  phonemes:
+  - l
+  - uan
+- grapheme: luang&2
+  phonemes:
+  - l
+  - uang
+- grapheme: lui&2
+  phonemes:
+  - l
+  - ui
+- grapheme: lun&2
+  phonemes:
+  - l
+  - un
+- grapheme: luo&2
+  phonemes:
+  - l
+  - uo
+- grapheme: lv&2
+  phonemes:
+  - l
+  - v
+- grapheme: lve&2
+  phonemes:
+  - l
+  - ve
+- grapheme: ma&2
+  phonemes:
+  - m
+  - a
+- grapheme: mai&2
+  phonemes:
+  - m
+  - ai
+- grapheme: man&2
+  phonemes:
+  - m
+  - an
+- grapheme: mang&2
+  phonemes:
+  - m
+  - ang
+- grapheme: mao&2
+  phonemes:
+  - m
+  - ao
+- grapheme: me&2
+  phonemes:
+  - m
+  - e
+- grapheme: mei&2
+  phonemes:
+  - m
+  - ei
+- grapheme: men&2
+  phonemes:
+  - m
+  - en
+- grapheme: meng&2
+  phonemes:
+  - m
+  - eng
+- grapheme: mer&2
+  phonemes:
+  - m
+  - er
+- grapheme: mi&2
+  phonemes:
+  - m
+  - i
+- grapheme: mia&2
+  phonemes:
+  - m
+  - ia
+- grapheme: mian&2
+  phonemes:
+  - m
+  - ian
+- grapheme: miang&2
+  phonemes:
+  - m
+  - iang
+- grapheme: miao&2
+  phonemes:
+  - m
+  - iao
+- grapheme: mie&2
+  phonemes:
+  - m
+  - ie
+- grapheme: min&2
+  phonemes:
+  - m
+  - in
+- grapheme: ming&2
+  phonemes:
+  - m
+  - ing
+- grapheme: miong&2
+  phonemes:
+  - m
+  - iong
+- grapheme: miu&2
+  phonemes:
+  - m
+  - iu
+- grapheme: mo&2
+  phonemes:
+  - m
+  - o
+- grapheme: mong&2
+  phonemes:
+  - m
+  - ong
+- grapheme: mou&2
+  phonemes:
+  - m
+  - ou
+- grapheme: mu&2
+  phonemes:
+  - m
+  - u
+- grapheme: mua&2
+  phonemes:
+  - m
+  - ua
+- grapheme: muai&2
+  phonemes:
+  - m
+  - uai
+- grapheme: muan&2
+  phonemes:
+  - m
+  - uan
+- grapheme: muang&2
+  phonemes:
+  - m
+  - uang
+- grapheme: mui&2
+  phonemes:
+  - m
+  - ui
+- grapheme: mun&2
+  phonemes:
+  - m
+  - un
+- grapheme: mv&2
+  phonemes:
+  - m
+  - v
+- grapheme: mve&2
+  phonemes:
+  - m
+  - ve
+- grapheme: na&2
+  phonemes:
+  - n
+  - a
+- grapheme: nai&2
+  phonemes:
+  - n
+  - ai
+- grapheme: nan&2
+  phonemes:
+  - n
+  - an
+- grapheme: nang&2
+  phonemes:
+  - n
+  - ang
+- grapheme: nao&2
+  phonemes:
+  - n
+  - ao
+- grapheme: ne&2
+  phonemes:
+  - n
+  - e
+- grapheme: nei&2
+  phonemes:
+  - n
+  - ei
+- grapheme: nen&2
+  phonemes:
+  - n
+  - en
+- grapheme: neng&2
+  phonemes:
+  - n
+  - eng
+- grapheme: ner&2
+  phonemes:
+  - n
+  - er
+- grapheme: ni&2
+  phonemes:
+  - n
+  - i
+- grapheme: nia&2
+  phonemes:
+  - n
+  - ia
+- grapheme: nian&2
+  phonemes:
+  - n
+  - ian
+- grapheme: niang&2
+  phonemes:
+  - n
+  - iang
+- grapheme: niao&2
+  phonemes:
+  - n
+  - iao
+- grapheme: nie&2
+  phonemes:
+  - n
+  - ie
+- grapheme: nin&2
+  phonemes:
+  - n
+  - in
+- grapheme: ning&2
+  phonemes:
+  - n
+  - ing
+- grapheme: niong&2
+  phonemes:
+  - n
+  - iong
+- grapheme: niu&2
+  phonemes:
+  - n
+  - iu
+- grapheme: nong&2
+  phonemes:
+  - n
+  - ong
+- grapheme: nou&2
+  phonemes:
+  - n
+  - ou
+- grapheme: nu&2
+  phonemes:
+  - n
+  - u
+- grapheme: nua&2
+  phonemes:
+  - n
+  - ua
+- grapheme: nuai&2
+  phonemes:
+  - n
+  - uai
+- grapheme: nuan&2
+  phonemes:
+  - n
+  - uan
+- grapheme: nuang&2
+  phonemes:
+  - n
+  - uang
+- grapheme: nui&2
+  phonemes:
+  - n
+  - ui
+- grapheme: nun&2
+  phonemes:
+  - n
+  - un
+- grapheme: nuo&2
+  phonemes:
+  - n
+  - uo
+- grapheme: nv&2
+  phonemes:
+  - n
+  - v
+- grapheme: nve&2
+  phonemes:
+  - n
+  - ve
+- grapheme: o&2
+  phonemes:
+  - o
+- grapheme: ong&2
+  phonemes:
+  - ong
+- grapheme: ou&2
+  phonemes:
+  - ou
+- grapheme: pa&2
+  phonemes:
+  - p
+  - a
+- grapheme: pai&2
+  phonemes:
+  - p
+  - ai
+- grapheme: pan&2
+  phonemes:
+  - p
+  - an
+- grapheme: pang&2
+  phonemes:
+  - p
+  - ang
+- grapheme: pao&2
+  phonemes:
+  - p
+  - ao
+- grapheme: pe&2
+  phonemes:
+  - p
+  - e
+- grapheme: pei&2
+  phonemes:
+  - p
+  - ei
+- grapheme: pen&2
+  phonemes:
+  - p
+  - en
+- grapheme: peng&2
+  phonemes:
+  - p
+  - eng
+- grapheme: per&2
+  phonemes:
+  - p
+  - er
+- grapheme: pi&2
+  phonemes:
+  - p
+  - i
+- grapheme: pia&2
+  phonemes:
+  - p
+  - ia
+- grapheme: pian&2
+  phonemes:
+  - p
+  - ian
+- grapheme: piang&2
+  phonemes:
+  - p
+  - iang
+- grapheme: piao&2
+  phonemes:
+  - p
+  - iao
+- grapheme: pie&2
+  phonemes:
+  - p
+  - ie
+- grapheme: pin&2
+  phonemes:
+  - p
+  - in
+- grapheme: ping&2
+  phonemes:
+  - p
+  - ing
+- grapheme: piong&2
+  phonemes:
+  - p
+  - iong
+- grapheme: piu&2
+  phonemes:
+  - p
+  - iu
+- grapheme: po&2
+  phonemes:
+  - p
+  - o
+- grapheme: pong&2
+  phonemes:
+  - p
+  - ong
+- grapheme: pou&2
+  phonemes:
+  - p
+  - ou
+- grapheme: pu&2
+  phonemes:
+  - p
+  - u
+- grapheme: pua&2
+  phonemes:
+  - p
+  - ua
+- grapheme: puai&2
+  phonemes:
+  - p
+  - uai
+- grapheme: puan&2
+  phonemes:
+  - p
+  - uan
+- grapheme: puang&2
+  phonemes:
+  - p
+  - uang
+- grapheme: pui&2
+  phonemes:
+  - p
+  - ui
+- grapheme: pun&2
+  phonemes:
+  - p
+  - un
+- grapheme: pv&2
+  phonemes:
+  - p
+  - v
+- grapheme: pve&2
+  phonemes:
+  - p
+  - ve
+- grapheme: qi&2
+  phonemes:
+  - q
+  - i
+- grapheme: qia&2
+  phonemes:
+  - q
+  - ia
+- grapheme: qian&2
+  phonemes:
+  - q
+  - ian
+- grapheme: qiang&2
+  phonemes:
+  - q
+  - iang
+- grapheme: qiao&2
+  phonemes:
+  - q
+  - iao
+- grapheme: qie&2
+  phonemes:
+  - q
+  - ie
+- grapheme: qin&2
+  phonemes:
+  - q
+  - in
+- grapheme: qing&2
+  phonemes:
+  - q
+  - ing
+- grapheme: qiong&2
+  phonemes:
+  - q
+  - iong
+- grapheme: qiu&2
+  phonemes:
+  - q
+  - iu
+- grapheme: qu&2
+  phonemes:
+  - q
+  - v
+- grapheme: quan&2
+  phonemes:
+  - q
+  - van
+- grapheme: que&2
+  phonemes:
+  - q
+  - ve
+- grapheme: qun&2
+  phonemes:
+  - q
+  - vn
+- grapheme: ra&2
+  phonemes:
+  - r
+  - a
+- grapheme: rai&2
+  phonemes:
+  - r
+  - ai
+- grapheme: ran&2
+  phonemes:
+  - r
+  - an
+- grapheme: rang&2
+  phonemes:
+  - r
+  - ang
+- grapheme: rao&2
+  phonemes:
+  - r
+  - ao
+- grapheme: re&2
+  phonemes:
+  - r
+  - e
+- grapheme: rei&2
+  phonemes:
+  - r
+  - ei
+- grapheme: ren&2
+  phonemes:
+  - r
+  - en
+- grapheme: reng&2
+  phonemes:
+  - r
+  - eng
+- grapheme: rer&2
+  phonemes:
+  - r
+  - er
+- grapheme: ri&2
+  phonemes:
+  - r
+  - ir
+- grapheme: rong&2
+  phonemes:
+  - r
+  - ong
+- grapheme: rou&2
+  phonemes:
+  - r
+  - ou
+- grapheme: ru&2
+  phonemes:
+  - r
+  - u
+- grapheme: rua&2
+  phonemes:
+  - r
+  - ua
+- grapheme: ruai&2
+  phonemes:
+  - r
+  - uai
+- grapheme: ruan&2
+  phonemes:
+  - r
+  - uan
+- grapheme: ruang&2
+  phonemes:
+  - r
+  - uang
+- grapheme: rui&2
+  phonemes:
+  - r
+  - ui
+- grapheme: run&2
+  phonemes:
+  - r
+  - un
+- grapheme: ruo&2
+  phonemes:
+  - r
+  - uo
+- grapheme: rv&2
+  phonemes:
+  - r
+  - v
+- grapheme: ryi&2
+  phonemes:
+  - r
+  - i
+- grapheme: sa&2
+  phonemes:
+  - s
+  - a
+- grapheme: sai&2
+  phonemes:
+  - s
+  - ai
+- grapheme: san&2
+  phonemes:
+  - s
+  - an
+- grapheme: sang&2
+  phonemes:
+  - s
+  - ang
+- grapheme: sao&2
+  phonemes:
+  - s
+  - ao
+- grapheme: se&2
+  phonemes:
+  - s
+  - e
+- grapheme: sei&2
+  phonemes:
+  - s
+  - ei
+- grapheme: sen&2
+  phonemes:
+  - s
+  - en
+- grapheme: seng&2
+  phonemes:
+  - s
+  - eng
+- grapheme: ser&2
+  phonemes:
+  - s
+  - er
+- grapheme: sha&2
+  phonemes:
+  - sh
+  - a
+- grapheme: shai&2
+  phonemes:
+  - sh
+  - ai
+- grapheme: shan&2
+  phonemes:
+  - sh
+  - an
+- grapheme: shang&2
+  phonemes:
+  - sh
+  - ang
+- grapheme: shao&2
+  phonemes:
+  - sh
+  - ao
+- grapheme: she&2
+  phonemes:
+  - sh
+  - e
+- grapheme: shei&2
+  phonemes:
+  - sh
+  - ei
+- grapheme: shen&2
+  phonemes:
+  - sh
+  - en
+- grapheme: sheng&2
+  phonemes:
+  - sh
+  - eng
+- grapheme: sher&2
+  phonemes:
+  - sh
+  - er
+- grapheme: shi&2
+  phonemes:
+  - sh
+  - ir
+- grapheme: shong&2
+  phonemes:
+  - sh
+  - ong
+- grapheme: shou&2
+  phonemes:
+  - sh
+  - ou
+- grapheme: shu&2
+  phonemes:
+  - sh
+  - u
+- grapheme: shua&2
+  phonemes:
+  - sh
+  - ua
+- grapheme: shuai&2
+  phonemes:
+  - sh
+  - uai
+- grapheme: shuan&2
+  phonemes:
+  - sh
+  - uan
+- grapheme: shuang&2
+  phonemes:
+  - sh
+  - uang
+- grapheme: shui&2
+  phonemes:
+  - sh
+  - ui
+- grapheme: shun&2
+  phonemes:
+  - sh
+  - un
+- grapheme: shuo&2
+  phonemes:
+  - sh
+  - uo
+- grapheme: shv&2
+  phonemes:
+  - sh
+  - v
+- grapheme: shyi&2
+  phonemes:
+  - sh
+  - i
+- grapheme: si&2
+  phonemes:
+  - s
+  - i0
+- grapheme: song&2
+  phonemes:
+  - s
+  - ong
+- grapheme: sou&2
+  phonemes:
+  - s
+  - ou
+- grapheme: su&2
+  phonemes:
+  - s
+  - u
+- grapheme: sua&2
+  phonemes:
+  - s
+  - ua
+- grapheme: suai&2
+  phonemes:
+  - s
+  - uai
+- grapheme: suan&2
+  phonemes:
+  - s
+  - uan
+- grapheme: suang&2
+  phonemes:
+  - s
+  - uang
+- grapheme: sui&2
+  phonemes:
+  - s
+  - ui
+- grapheme: sun&2
+  phonemes:
+  - s
+  - un
+- grapheme: suo&2
+  phonemes:
+  - s
+  - uo
+- grapheme: sv&2
+  phonemes:
+  - s
+  - v
+- grapheme: syi&2
+  phonemes:
+  - s
+  - i
+- grapheme: ta&2
+  phonemes:
+  - t
+  - a
+- grapheme: tai&2
+  phonemes:
+  - t
+  - ai
+- grapheme: tan&2
+  phonemes:
+  - t
+  - an
+- grapheme: tang&2
+  phonemes:
+  - t
+  - ang
+- grapheme: tao&2
+  phonemes:
+  - t
+  - ao
+- grapheme: te&2
+  phonemes:
+  - t
+  - e
+- grapheme: tei&2
+  phonemes:
+  - t
+  - ei
+- grapheme: ten&2
+  phonemes:
+  - t
+  - en
+- grapheme: teng&2
+  phonemes:
+  - t
+  - eng
+- grapheme: ter&2
+  phonemes:
+  - t
+  - er
+- grapheme: ti&2
+  phonemes:
+  - t
+  - i
+- grapheme: tia&2
+  phonemes:
+  - t
+  - ia
+- grapheme: tian&2
+  phonemes:
+  - t
+  - ian
+- grapheme: tiang&2
+  phonemes:
+  - t
+  - iang
+- grapheme: tiao&2
+  phonemes:
+  - t
+  - iao
+- grapheme: tie&2
+  phonemes:
+  - t
+  - ie
+- grapheme: tin&2
+  phonemes:
+  - t
+  - in
+- grapheme: ting&2
+  phonemes:
+  - t
+  - ing
+- grapheme: tiong&2
+  phonemes:
+  - t
+  - iong
+- grapheme: tong&2
+  phonemes:
+  - t
+  - ong
+- grapheme: tou&2
+  phonemes:
+  - t
+  - ou
+- grapheme: tu&2
+  phonemes:
+  - t
+  - u
+- grapheme: tua&2
+  phonemes:
+  - t
+  - ua
+- grapheme: tuai&2
+  phonemes:
+  - t
+  - uai
+- grapheme: tuan&2
+  phonemes:
+  - t
+  - uan
+- grapheme: tuang&2
+  phonemes:
+  - t
+  - uang
+- grapheme: tui&2
+  phonemes:
+  - t
+  - ui
+- grapheme: tun&2
+  phonemes:
+  - t
+  - un
+- grapheme: tuo&2
+  phonemes:
+  - t
+  - uo
+- grapheme: tv&2
+  phonemes:
+  - t
+  - v
+- grapheme: tve&2
+  phonemes:
+  - t
+  - ve
+- grapheme: wa&2
+  phonemes:
+  - w
+  - a
+- grapheme: wai&2
+  phonemes:
+  - w
+  - ai
+- grapheme: wan&2
+  phonemes:
+  - w
+  - an
+- grapheme: wang&2
+  phonemes:
+  - w
+  - ang
+- grapheme: wao&2
+  phonemes:
+  - w
+  - ao
+- grapheme: we&2
+  phonemes:
+  - w
+  - e
+- grapheme: wei&2
+  phonemes:
+  - w
+  - ei
+- grapheme: wen&2
+  phonemes:
+  - w
+  - en
+- grapheme: weng&2
+  phonemes:
+  - w
+  - eng
+- grapheme: wer&2
+  phonemes:
+  - w
+  - er
+- grapheme: wi&2
+  phonemes:
+  - w
+  - i
+- grapheme: wo&2
+  phonemes:
+  - w
+  - o
+- grapheme: wong&2
+  phonemes:
+  - w
+  - ong
+- grapheme: wou&2
+  phonemes:
+  - w
+  - ou
+- grapheme: wu&2
+  phonemes:
+  - w
+  - u
+- grapheme: xi&2
+  phonemes:
+  - x
+  - i
+- grapheme: xia&2
+  phonemes:
+  - x
+  - ia
+- grapheme: xian&2
+  phonemes:
+  - x
+  - ian
+- grapheme: xiang&2
+  phonemes:
+  - x
+  - iang
+- grapheme: xiao&2
+  phonemes:
+  - x
+  - iao
+- grapheme: xie&2
+  phonemes:
+  - x
+  - ie
+- grapheme: xin&2
+  phonemes:
+  - x
+  - in
+- grapheme: xing&2
+  phonemes:
+  - x
+  - ing
+- grapheme: xiong&2
+  phonemes:
+  - x
+  - iong
+- grapheme: xiu&2
+  phonemes:
+  - x
+  - iu
+- grapheme: xu&2
+  phonemes:
+  - x
+  - v
+- grapheme: xuan&2
+  phonemes:
+  - x
+  - van
+- grapheme: xue&2
+  phonemes:
+  - x
+  - ve
+- grapheme: xun&2
+  phonemes:
+  - x
+  - vn
+- grapheme: ya&2
+  phonemes:
+  - y
+  - a
+- grapheme: yai&2
+  phonemes:
+  - y
+  - ai
+- grapheme: yan&2
+  phonemes:
+  - y
+  - En
+- grapheme: yang&2
+  phonemes:
+  - y
+  - ang
+- grapheme: yao&2
+  phonemes:
+  - y
+  - ao
+- grapheme: ye&2
+  phonemes:
+  - y
+  - E
+- grapheme: yei&2
+  phonemes:
+  - y
+  - ei
+- grapheme: yi&2
+  phonemes:
+  - y
+  - i
+- grapheme: yin&2
+  phonemes:
+  - y
+  - in
+- grapheme: ying&2
+  phonemes:
+  - y
+  - ing
+- grapheme: yo&2
+  phonemes:
+  - y
+  - o
+- grapheme: yong&2
+  phonemes:
+  - y
+  - ong
+- grapheme: you&2
+  phonemes:
+  - y
+  - ou
+- grapheme: yu&2
+  phonemes:
+  - y
+  - v
+- grapheme: yuan&2
+  phonemes:
+  - y
+  - van
+- grapheme: yue&2
+  phonemes:
+  - y
+  - ve
+- grapheme: yun&2
+  phonemes:
+  - y
+  - vn
+- grapheme: ywu&2
+  phonemes:
+  - y
+  - u
+- grapheme: za&2
+  phonemes:
+  - z
+  - a
+- grapheme: zai&2
+  phonemes:
+  - z
+  - ai
+- grapheme: zan&2
+  phonemes:
+  - z
+  - an
+- grapheme: zang&2
+  phonemes:
+  - z
+  - ang
+- grapheme: zao&2
+  phonemes:
+  - z
+  - ao
+- grapheme: ze&2
+  phonemes:
+  - z
+  - e
+- grapheme: zei&2
+  phonemes:
+  - z
+  - ei
+- grapheme: zen&2
+  phonemes:
+  - z
+  - en
+- grapheme: zeng&2
+  phonemes:
+  - z
+  - eng
+- grapheme: zer&2
+  phonemes:
+  - z
+  - er
+- grapheme: zha&2
+  phonemes:
+  - zh
+  - a
+- grapheme: zhai&2
+  phonemes:
+  - zh
+  - ai
+- grapheme: zhan&2
+  phonemes:
+  - zh
+  - an
+- grapheme: zhang&2
+  phonemes:
+  - zh
+  - ang
+- grapheme: zhao&2
+  phonemes:
+  - zh
+  - ao
+- grapheme: zhe&2
+  phonemes:
+  - zh
+  - e
+- grapheme: zhei&2
+  phonemes:
+  - zh
+  - ei
+- grapheme: zhen&2
+  phonemes:
+  - zh
+  - en
+- grapheme: zheng&2
+  phonemes:
+  - zh
+  - eng
+- grapheme: zher&2
+  phonemes:
+  - zh
+  - er
+- grapheme: zhi&2
+  phonemes:
+  - zh
+  - ir
+- grapheme: zhong&2
+  phonemes:
+  - zh
+  - ong
+- grapheme: zhou&2
+  phonemes:
+  - zh
+  - ou
+- grapheme: zhu&2
+  phonemes:
+  - zh
+  - u
+- grapheme: zhua&2
+  phonemes:
+  - zh
+  - ua
+- grapheme: zhuai&2
+  phonemes:
+  - zh
+  - uai
+- grapheme: zhuan&2
+  phonemes:
+  - zh
+  - uan
+- grapheme: zhuang&2
+  phonemes:
+  - zh
+  - uang
+- grapheme: zhui&2
+  phonemes:
+  - zh
+  - ui
+- grapheme: zhun&2
+  phonemes:
+  - zh
+  - un
+- grapheme: zhuo&2
+  phonemes:
+  - zh
+  - uo
+- grapheme: zhv&2
+  phonemes:
+  - zh
+  - v
+- grapheme: zhyi&2
+  phonemes:
+  - zh
+  - i
+- grapheme: zi&2
+  phonemes:
+  - z
+  - i0
+- grapheme: zong&2
+  phonemes:
+  - z
+  - ong
+- grapheme: zou&2
+  phonemes:
+  - z
+  - ou
+- grapheme: zu&2
+  phonemes:
+  - z
+  - u
+- grapheme: zua&2
+  phonemes:
+  - z
+  - ua
+- grapheme: zuai&2
+  phonemes:
+  - z
+  - uai
+- grapheme: zuan&2
+  phonemes:
+  - z
+  - uan
+- grapheme: zuang&2
+  phonemes:
+  - z
+  - uang
+- grapheme: zui&2
+  phonemes:
+  - z
+  - ui
+- grapheme: zun&2
+  phonemes:
+  - z
+  - un
+- grapheme: zuo&2
+  phonemes:
+  - z
+  - uo
+- grapheme: zv&2
+  phonemes:
+  - z
+  - v
+- grapheme: zyi&2
+  phonemes:
+  - z
+  - i
